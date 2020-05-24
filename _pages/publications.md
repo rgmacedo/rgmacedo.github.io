@@ -11,7 +11,7 @@ author_profile: true
 *A Survey and Classification of Software-Defined Storage Systems.*
 ACM Computing Surveys, 2020. *To appear in the ACM Computing Surveys.*   
 [BibTeX](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
-[DOI](https://10.1145/3385896)
+[DOI](https://doi.org/10.1145/3385896)
 <!-- [PDF] () -->
 
 
