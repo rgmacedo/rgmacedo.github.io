@@ -11,3 +11,8 @@ author_profile: true
 * Cláudia Mendonça. *Storage Systems for Deep Learning Frameworks*. Co-advised with João Paulo.
 
 * Diogo Leitão. *Modular Distributed Storage Systems*. Co-advised with João Paulo.
+
+
+## Teaching
+### 2020
+**Invited Assistant Professor (25%).** Lecturer of the Operating Systems class, MIEI course (2nd year, undergraduate), University of Minho.
