@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,12 +16,18 @@ Currently, I am working on a Software-Defined Storage data plane system to impro
 
 ***
 
-### Recent News
+## Recent News
 
 
 ***
 
-### Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
+
+## Education
+
+***
+
+
+## Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. **A Survey and Classification of Software-Defined Storage Systems.** *CSUR, 2020.*   
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896)
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
