@@ -47,4 +47,10 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 [[slides]](https://rgmacedo.github.io/files/srds17-safenosql/rgmacedo-srds17-safenosql-slides.pdf)
 
 
+**Computação Segura em Bases de Dados NoSQL.**    
+**Ricardo Macedo**. Supervised by João Paulo and Rui Oliveira.    
+*Master Thesis, University of Minho.*    
+[[pdf]](https://repositorium.sdum.uminho.pt/handle/1822/62116)
+
+
 
