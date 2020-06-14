@@ -44,6 +44,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 [[pdf]](https://rgmacedo.github.io/files/srds17-safenosql/rgmacedo-srds17-safenosql.pdf)
 [[cite]](https://rgmacedo.github.io/files/srds17-safenosql/bibtex.bib)
 [[doi]](https://doi.org/10.1109/SRDS.2017.10)
+[[slides]](https://rgmacedo.github.io/files/srds17-safenosql/rgmacedo-srds17-safenosql-slides.pdf)
 
 
 
