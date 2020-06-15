@@ -14,12 +14,11 @@ My research interests include local and distributed storage systems, with partic
 Currently, I am working on a Software-Defined Storage data plane system to improve performance isolation, fairness, and QoS over complex I/O stacks.
 
 
-***
 
-## Recent News
+Recent News
+===
 
 
-***
 
 
 Education
@@ -36,7 +35,16 @@ Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. Rui Oli
 University of Minho.    
 2011 --- 2017.
 
-***
+
+Experience
+===
+**Researcher --- HASLab INESC TEC**    
+Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    
+2018 --- Present.
+
+**Researcher --- HASLab INESC TEC**    
+Research in secure computation in NoSQL and SQL databases to provide flexible performance and security over cloud-based databases systems.    
+2016 --- 2017.
 
 
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
