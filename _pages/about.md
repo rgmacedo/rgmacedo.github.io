@@ -11,14 +11,15 @@ redirect_from:
 
 I am a researcher at HASLab INESC TEC and a 3rd year PhD student at University of Minho, advised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop). 
 My research interests include local and distributed storage systems, with particular focus in Software-Defined Storage, programmable and distributed storage, and kernel-/user-space storage technologies.    
-Currently, I am working on a Software-Defined Storage data plane system to improve performance isolation, fairness, and QoS over complex I/O stacks.
+Currently, I am working on a Software-Defined Storage data plane framework for enforcing end-to-end performance policies in complex storage infrastructures.
 
-
+***
 
 Recent News
 ===
 
 
+***
 
 
 Education
@@ -35,6 +36,7 @@ Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. Rui Oli
 University of Minho.    
 2011 --- 2017.
 
+***
 
 Experience
 ===
@@ -46,6 +48,7 @@ Research in distributed storage systems, namely Software-Defined Storage, local 
 Research in secure computation in NoSQL and SQL databases to provide flexible performance and security over cloud-based databases systems.    
 2016 --- 2017.
 
+***
 
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 ===
@@ -60,3 +63,4 @@ Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 [[doi]](https://doi.org/10.1109/SRDSW49218.2019.00009)
 
 
+***
