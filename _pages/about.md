@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,7 @@ redirect_from:
 
 I am a researcher at HASLab INESC TEC and a 3rd year PhD student at University of Minho, advised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop). 
 My research interests include local and distributed storage systems, with particular focus in Software-Defined Storage, programmable and distributed storage, and kernel-/user-space storage technologies.
+
 Currently, I am working on a Software-Defined Storage data plane system to improve performance isolation, fairness, and QoS over complex I/O stacks.
 
 
@@ -23,6 +24,11 @@ Currently, I am working on a Software-Defined Storage data plane system to impro
 
 
 ## Education
+**Ph.D. --- MAP-i Doctoral Program in Computer Science (3rd year)**    
+2017 --- Present.    
+Universities of Minho, Aveiro, and Porto.    
+*"Towards a Dependable and Decentralized Software-Defined Storage Architecture."*    
+Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop).
 
 ***
 
