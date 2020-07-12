@@ -10,7 +10,7 @@ author_profile: true
 **A Survey and Classification of Software-Defined Storage Systems.**   
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani.   
 *ACM Computing Surveys, 2020.*   
-[[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896)
+[[pdf]](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf)
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
 [[doi]](https://doi.org/10.1145/3385896)
 
