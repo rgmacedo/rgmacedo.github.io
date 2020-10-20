@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+## [PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems (UTA-EXPL/CA/0075/2019).](https://pastor-project.github.io/)
+**Researcher**    
+2020 -- Present.   
+Research and development of a Software-Defined Storage data plane for improving I/O performance of AI-powered applications in HPC infrastructures.
+
+
 ## [BigHPC: A Management Framework for Consolidated Big Data and HPC (POCI-01-0247-FEDER-045924).](https://bighpc.wavecom.pt/)
 **Researcher**    
 2020 -- Present.    
@@ -20,7 +26,7 @@ the programmability and configurability of HPC and Cloud Computing infrastructur
 
 ## IBM Research Haifa --- Joint Study Agreement.
 **Researcher**    
-2018 -- Present.    
+2018 -- 2019.    
 Research and development of a programmable and modular stackable file system framework for implementing secure content-aware storage functionalities over hardware-assisted trusted execution environments.
 
 
