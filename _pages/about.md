@@ -28,29 +28,30 @@ Education
 Thesis: *"Towards a Dependable and Decentralized Software-Defined Storage Architecture."*    
 Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop).    
 Universities of Minho, Aveiro, and Porto.    
-2017 --- Present.
+2017 --- Present
 
 **MSc --- Integrated Master in Computer Science**    
 Thesis: *"Secure Computation in NoSQL Databases."*    
 Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. Rui Oliveira](https://haslab.uminho.pt/rco).    
 University of Minho.    
-2011 --- 2017.
+2011 --- 2017
 
 ***
 
 Experience
 ===
 **Research Intern --- [AIST](https://www.aist.go.jp/index_en.html)**    
+Supervisor: Jason Haga    
 Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).    
-2020.08 --- 2020.09.
+2020.08 --- 2020.09
 
 **Researcher --- HASLab INESC TEC**    
 Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    
-2018 --- Present.
+2018 --- Present
 
 **Researcher --- HASLab INESC TEC**    
 Research in secure computation in NoSQL and SQL databases to provide flexible performance and security over cloud-based databases systems.    
-2016 --- 2017.
+2016 --- 2017
 
 ***
 
