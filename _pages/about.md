@@ -15,10 +15,12 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 ***
 
-Recent News
+Recent News [(All)](https://rgmacedo.github.io/news/)
 ===
-
-
+* [Oct 2020] The [PAStor project](https://pastor-project.github.io/) just kicked off.
+* [Oct 2020] I did my research internship at [AIST](https://www.aist.go.jp/index_en.html) during this summer (August - September).
+* [Apr 2020] The [BigHPC project](https://bighpc.wavecom.pt/) just kicked off.
+* [Feb 2020] Our survey on [Software-Defined Storage](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf) systems was accepted at [ACM Computing Surveys](https://dl.acm.org/journal/csur) journal.
 ***
 
 
@@ -41,9 +43,9 @@ University of Minho.
 Experience
 ===
 **Research Intern --- [AIST](https://www.aist.go.jp/index_en.html)**    
-Supervisor: Jason Haga    
-Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).    
-2020.08 --- 2020.09
+* Supervisor: Jason Haga
+* Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).
+* 2020.08 --- 2020.09
 
 **Researcher --- HASLab INESC TEC**    
 Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    

@@ -15,5 +15,5 @@ author_profile: true
 ***
 
 ### Teaching 
-**Invited Assistant Professor (25%).** Lecturer of the Distributed Systems class, MIEI course (3rd year - undergraduate), University of Minho. 2019 -- 2020.
-**Invited Assistant Professor (25%).** Lecturer of the Operating Systems class, MIEI course (2nd year - undergraduate), University of Minho. 2020 -- 2021.
+**Invited Assistant Professor (25%).** Lecturer of the Distributed Systems class, MIEI course (3rd year - undergraduate), University of Minho. 2020 -- 2021.    
+**Invited Assistant Professor (25%).** Lecturer of the Operating Systems class, MIEI course (2nd year - undergraduate), University of Minho. 2019 -- 2020.
