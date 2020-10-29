@@ -44,8 +44,8 @@ University of Minho.
 Experience
 ===
 **Research Intern --- [AIST](https://www.aist.go.jp/index_en.html)**    
-Supervisor: Jason Haga
-Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).
+Supervisor: Jason Haga    
+Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).    
 2020.08 --- 2020.09
 
 **Researcher --- HASLab INESC TEC**    
