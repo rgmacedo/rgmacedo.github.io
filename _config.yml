@@ -70,14 +70,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
-# Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-172409192-1
-
-
 # Site Author
 author:
   name             : "Ricardo Macedo"
@@ -321,3 +313,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-172409192-1
