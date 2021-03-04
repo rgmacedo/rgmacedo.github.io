@@ -12,8 +12,8 @@ author_profile: true
 *ACM Computing Surveys 53, 3 (48), 2020.*   
 [[pdf]](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf)
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
-[[doi]](https://doi.org/10.1145/3385896)
-
+[[url]]( https://dl.acm.org/doi/10.1145/3385896?cid=99659535288)
+<!-- [[doi]](https://doi.org/10.1145/3385896) -->
 
 ## 2019
 
@@ -32,7 +32,6 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 *38th International Symposium on Reliable Distributed Systems Workshops @ 1st Workshop on Distributed and Reliable Storage Systems, 2019.*    
 [[cite]](https://rgmacedo.github.io/files/drss19-trustfs/bibtex.bib)
 [[doi]](https://doi.org/10.1109/SRDSW49218.2019.00012)
-<!-- [PDF] () -->
 
 
 
@@ -49,7 +48,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 
 **Computação Segura em Bases de Dados NoSQL.**    
 **Ricardo Macedo**. Supervised by João Paulo and Rui Oliveira.    
-*Master Thesis, University of Minho, 2017.*    
+*Master Thesis, University of Minho, 2017 (Portuguese).*    
 [[pdf]](https://repositorium.sdum.uminho.pt/handle/1822/62116)
 
 

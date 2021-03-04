@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a researcher at HASLab INESC TEC and a 3rd year PhD student at University of Minho, advised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop). 
+I am a researcher at HASLab INESC TEC and a 4th year PhD student at University of Minho, advised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop). 
 My research interests include local and distributed storage systems, with particular focus in Software-Defined Storage, programmable and distributed storage, and kernel-/user-space storage technologies.    
 Currently, I am working on a Software-Defined Storage data plane framework for enforcing end-to-end performance policies in complex storage infrastructures.
 
@@ -27,7 +27,7 @@ Recent News [(All)](https://rgmacedo.github.io/news/)
 
 Education
 ===
-**Ph.D --- MAP-i Doctoral Program in Computer Science (3rd year)**    
+**Ph.D --- MAP-i Doctoral Program in Computer Science (4th year)**    
 Thesis: *"Towards a Dependable and Decentralized Software-Defined Storage Architecture."*    
 Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop).    
 Universities of Minho, Aveiro, and Porto.    
@@ -61,7 +61,8 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 ===
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.* ACM Computing Surveys, 2020.   
-[[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896)
+<!-- [[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896) -->
+[[pdf]]( https://dl.acm.org/doi/10.1145/3385896?cid=99659535288)
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
 [[doi]](https://doi.org/10.1145/3385896)
 
