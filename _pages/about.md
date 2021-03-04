@@ -17,10 +17,10 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(All)](https://rgmacedo.github.io/news/)
 ===
-**[Oct 2020]** The [PAStor project](https://pastor-project.github.io/) just kicked off.    
-**[Oct 2020]** I did my research internship at [AIST](https://www.aist.go.jp/index_en.html) during this summer (August - September).    
-**[Apr 2020]** The [BigHPC project](https://bighpc.wavecom.pt/) just kicked off.    
-**[Feb 2020]** Our survey on [Software-Defined Storage](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf) systems was accepted at [ACM Computing Surveys](https://dl.acm.org/journal/csur) journal.    
+**Oct 2020** The [PAStor project](https://pastor-project.github.io/) just kicked off.    
+**Oct 2020** I did my research internship at [AIST](https://www.aist.go.jp/index_en.html) during this summer (August - September).    
+**Apr 2020** The [BigHPC project](https://bighpc.wavecom.pt/) just kicked off.    
+**Feb 2020** Our survey on [Software-Defined Storage](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf) systems was accepted at [ACM Computing Surveys](https://dl.acm.org/journal/csur) journal.    
 
 ***
 
@@ -61,10 +61,10 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 ===
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.* ACM Computing Surveys, 2020.   
-<!-- [[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896) -->
 [[pdf]]( https://dl.acm.org/doi/10.1145/3385896?cid=99659535288)
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
-[[doi]](https://doi.org/10.1145/3385896)
+<!-- [[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896) -->
+<!-- [[doi]](https://doi.org/10.1145/3385896) -->
 
 **Ricardo Macedo**, Alberto Faria, João Paulo, José Pereira. *A Case for Dynamically Programmable Storage Background Tasks.* 38th International Symposium on Reliable Distributed Systems Workshops @ 1st Workshop on Distributed and Reliable Storage Systems, 2019.    
 [[pdf]](https://rgmacedo.github.io/files/drss19-programmable-background-tasks/rgmacedo-drss19.pdf)
