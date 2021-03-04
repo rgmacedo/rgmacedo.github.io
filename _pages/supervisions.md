@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 ### MSc Theses
-**Alberto Faria.** *"Software-Defined Storage for HPC Environments"*. Co-advised with João Paulo. 2020. *(Ongoing)*    
-**Marco Dantas.** *"An Optimized Storage System for Deep Learning Frameworks under HPC"*. Co-advised with João Paulo and Rui Oliveira. 2020. *(Ongoing)*    
+**Alberto Faria.** *"Software-Defined Storage Control for Containerized HPC Applications"*. Co-advised with João Paulo and António Sousa. 2020. *(Ongoing)*    
+**Marco Dantas.** *"Optimized Storage System for Deep Learning Services under HPC"*. Co-advised with João Paulo and Rui Oliveira. 2020. *(Ongoing)*    
 **Cláudia Mendonça.** *"PRISMA: A Prefetching Storage Middleware for Accelerating Deep learning Frameworks"*. U. Minho, 2019-2020. Co-advised with João Paulo and António Sousa.    
 **Diogo Leitão.** *"RSafeFS: A Modular File System for Remote Storage"*. Co-advised with João Paulo and José Orlando Pereira. 2019-2020.
+
 
 ### Other Supervision Activities
 **Maria Beatriz Moreira.** Working on programmable and adaptable Software-Defined Storage data planes for data transformations (e.g, compression, encryption). 2021. *(Ongoing)*    
