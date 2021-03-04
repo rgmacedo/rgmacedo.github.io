@@ -316,8 +316,8 @@ compress_html:
 
 
 
-# Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-172409192-1
+# # Analytics
+# analytics:
+#   provider               : "google" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          : UA-172409192-1
