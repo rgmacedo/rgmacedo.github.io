@@ -15,6 +15,7 @@ author_profile: true
 ### Other Supervision Activities
 **Maria Beatriz Moreira.** Working on programmable and adaptable Software-Defined Storage data planes for data transformations (e.g, compression, encryption). 2021. *(Ongoing)*    
 **Pedro Peixoto.** Working on programmable and adaptable Software-Defined Storage data planes for data transformations (e.g, compression, encryption). 2021. *(Ongoing)*    
+**Rúben Adão.** Working on local data placement strategies. 2021. *(Ongoing)*    
 **Diogo Ribeiro.** Working on local and distributed data placement strategies. 2021. *(Ongoing)*    
 
 ***
