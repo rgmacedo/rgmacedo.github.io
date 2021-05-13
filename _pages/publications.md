@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2021
+
+**BDUS: Implementing Block Devices in User Space.**    
+Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.    
+*14th ACM International System and Storage Conference, 2021.*    
+<!-- [[pdf]]() -->
+<!-- [[cite]]() -->
+[[code]](https://github.com/albertofaria/bdus)
+
 ## 2020
 
 **A Survey and Classification of Software-Defined Storage Systems.**   

@@ -17,10 +17,10 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(All)](https://rgmacedo.github.io/news/)
 ===
+**May 2021** Our paper *"BDUS: Implementing Block Devices in User Space"* was accepted at [ACM SYSTOR 2021](https://www.systor.org/2021/).    
 **Oct 2020** The [PAStor project](https://pastor-project.github.io/) just kicked off.    
 **Oct 2020** I did my research internship at [AIST](https://www.aist.go.jp/index_en.html) during this summer (August - September).    
 **Apr 2020** The [BigHPC project](https://bighpc.wavecom.pt/) just kicked off.    
-**Feb 2020** Our survey on [Software-Defined Storage](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf) systems was accepted at [ACM Computing Surveys](https://dl.acm.org/journal/csur) journal.    
 
 ***
 
