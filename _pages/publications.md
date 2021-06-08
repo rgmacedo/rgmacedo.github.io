@@ -7,12 +7,21 @@ author_profile: true
 
 ## 2021
 
+**PAIO: A Software-Defined Storage Data Plane Framework.**    
+**Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo.    
+*ArXiv: Computing Research Repository (CoRR), 2021.*    
+[[ArXiv]](https://arxiv.org/abs/2106.03617)
+[[cite]](https://rgmacedo.github.io/files/arxiv21-paio/bibtex.bib)
+[[code]](https://github.com/dsrhaslab/paio)
+
+
 **BDUS: Implementing Block Devices in User Space.**    
 Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.    
 *14th ACM International System and Storage Conference, 2021.*    
 <!-- [[pdf]]() -->
 <!-- [[cite]]() -->
 [[code]](https://github.com/albertofaria/bdus)
+
 
 ## 2020
 
@@ -23,6 +32,7 @@ Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
 <!-- [[pdf]](https://rgmacedo.github.io/files/csur20-sds-survey/rgmacedo-csur20.pdf) -->
 <!-- [[doi]](https://doi.org/10.1145/3385896) -->
+
 
 ## 2019
 

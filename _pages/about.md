@@ -60,6 +60,12 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 ===
+**Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
+*PAIO: A Software-Defined Storage Data Plane Framework.* ArXiv: Computing Research Repository (CoRR), 2021.    
+[[ArXiv]](https://arxiv.org/abs/2106.03617)
+[[cite]](https://rgmacedo.github.io/files/arxiv21-paio/bibtex.bib)
+[[code]](https://github.com/dsrhaslab/paio)
+
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.* ACM Computing Surveys, 2020.   
 [[pdf]]( https://dl.acm.org/doi/10.1145/3385896?cid=99659535288)
 [[cite]](https://rgmacedo.github.io/files/csur20-sds-survey/bibtex.bib)
