@@ -9,7 +9,7 @@ author_profile: true
 
 **PAIO: A Software-Defined Storage Data Plane Framework.**    
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo.    
-*ArXiv: Computing Research Repository (CoRR), 2021.*    
+*ArXiv -- Computing Research Repository (CoRR), 2021.*    
 [[ArXiv]](https://arxiv.org/abs/2106.03617)
 [[cite]](https://rgmacedo.github.io/files/2021/arxiv21-paio/bibtex.bib)
 [[code]](https://github.com/dsrhaslab/paio)

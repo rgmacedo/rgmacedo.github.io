@@ -17,10 +17,10 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(All)](https://rgmacedo.github.io/news/)
 ===
+* **Jun 2021** We have a new paper on ArXiv: [*"PAIO: A Software-Defined Storage Data Plane Framework"*.](https://arxiv.org/abs/2106.03617).    
 **May 2021** Our paper *"BDUS: Implementing Block Devices in User Space"* was accepted at [ACM SYSTOR 2021](https://www.systor.org/2021/).    
 **Oct 2020** The [PAStor project](https://pastor-project.github.io/) just kicked off.    
 **Oct 2020** I did my research internship at [AIST](https://www.aist.go.jp/index_en.html) during this summer (August - September).    
-**Apr 2020** The [BigHPC project](https://bighpc.wavecom.pt/) just kicked off.    
 
 ***
 
@@ -61,7 +61,7 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 ===
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
-*PAIO: A Software-Defined Storage Data Plane Framework.* ArXiv: Computing Research Repository (CoRR), 2021.    
+*PAIO: A Software-Defined Storage Data Plane Framework.* ArXiv -- Computing Research Repository (CoRR), 2021.    
 [[ArXiv]](https://arxiv.org/abs/2106.03617)
 [[cite]](https://rgmacedo.github.io/files/2021/arxiv21-paio/bibtex.bib)
 [[code]](https://github.com/dsrhaslab/paio)
