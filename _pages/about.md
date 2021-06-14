@@ -17,7 +17,7 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(All)](https://rgmacedo.github.io/news/)
 ===
-* **Jun 2021** We have a new paper on ArXiv: [*"PAIO: A Software-Defined Storage Data Plane Framework"*.](https://arxiv.org/abs/2106.03617).    
+**Jun 2021** We have a new paper on ArXiv: [*"PAIO: A Software-Defined Storage Data Plane Framework"*](https://arxiv.org/abs/2106.03617).    
 **May 2021** Our paper *"BDUS: Implementing Block Devices in User Space"* was accepted at [ACM SYSTOR 2021](https://www.systor.org/2021/).    
 **Oct 2020** The [PAStor project](https://pastor-project.github.io/) just kicked off.    
 **Oct 2020** I did my research internship at [AIST](https://www.aist.go.jp/index_en.html) during this summer (August - September).    
