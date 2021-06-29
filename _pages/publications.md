@@ -41,7 +41,7 @@ Best paper runner-up.
 **A Case for Dynamically Programmable Storage Background Tasks.**   
 **Ricardo Macedo**, Alberto Faria, João Paulo, José Pereira.   
 *38th International Symposium on Reliable Distributed Systems Workshops @ 1st Workshop on Distributed and Reliable Storage Systems, 2019.*    
-[[pdf]](https://rgmacedo.github.io/files/drss19-programmable-background-tasks/rgmacedo-drss19.pdf)
+[[pdf]](https://rgmacedo.github.io/files/2019/drss19-programmable-background-tasks/rgmacedo-drss19.pdf)
 [[cite]](https://rgmacedo.github.io/files/2019/drss19-programmable-background-tasks/bibtex.bib)
 [[doi]](https://doi.org/10.1109/SRDSW49218.2019.00009)
 [[slides]](https://rgmacedo.github.io/files/2019/drss19-programmable-background-tasks/rgmacedo-drss19-presentation.pdf)
