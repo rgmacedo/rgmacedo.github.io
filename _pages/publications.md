@@ -9,12 +9,12 @@ author_profile: true
 
 **The Case for Storage Optimization Decoupling in Deep Learning Frameworks.**    
 **Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
-To appear in *1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO) (collocated with IEEE Cluster), 2021.*
+To appear in *IEEE Cluster Conference @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2021.*
 
 
 **Monarch: Hierarchical Storage Management for Deep Learning Frameworks.**    
 Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, João Paulo.    
-To appear in *1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO) (collocated with IEEE Cluster), 2021.*
+To appear in *IEEE Cluster Conference @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2021.*
 
 
 **PAIO: A Software-Defined Storage Data Plane Framework.**    
