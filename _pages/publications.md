@@ -19,6 +19,10 @@ author_profile: true
 **Monarch: Hierarchical Storage Management for Deep Learning Frameworks.**    
 Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, João Paulo.    
 *IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021.*
+[[pdf]](https://rgmacedo.github.io/files/2021/rexio21-monarch/dantas-rexio21.pdf)
+[[cite]](https://rgmacedo.github.io/files/2021/rexio21-monarch/bibtex.bib)
+[[code]](https://github.com/dsrhaslab/monarch)
+[[slides]](https://rgmacedo.github.io/files/2021/monarch-sds-prisma/dantas-rexio21-presentation.pdf)
 
 
 **PAIO: A Software-Defined Storage Data Plane Framework.**    
