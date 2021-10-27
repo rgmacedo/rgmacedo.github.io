@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2021
 
+**Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes**    
+Alberto Faria, **Ricardo Macedo**, João Paulo.    
+*22nd ACM/IFIP International Middleware Conference @ 7th International Workshop on Container Technologies and Container Clouds, 2021*
+
+
 **The Case for Storage Optimization Decoupling in Deep Learning Frameworks.**    
 **Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
 *IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021.*    
