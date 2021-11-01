@@ -26,7 +26,7 @@ Research and development of Software-Defined Storage systems to improve the prog
 **Project reference:** [http://www.globalcentra.org/projects/#prv](http://www.globalcentra.org/projects/#prv)
 
 
-## IBM Research Haifa --- Joint Study Agreement.
+## IBM Research Haifa --- Joint Study Agreement
 **Researcher**    
 2018 -- 2019    
 Research and development of a programmable and modular stackable file system framework for implementing secure content-aware storage functionalities over hardware-assisted trusted execution environments.
