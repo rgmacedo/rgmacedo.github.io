@@ -28,7 +28,7 @@ Recent News [(All)](https://rgmacedo.github.io/news/)
 Education
 ===
 **Ph.D --- MAP-i Doctoral Program in Computer Science (4th year)**    
-Thesis: *"Towards a Dependable and Decentralized Software-Defined Storage Architecture."*    
+Thesis: *"User-level Software-Defined Storage Data Planes."*    
 Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop).    
 Universities of Minho, Aveiro, and Porto.    
 2017 --- Present
