@@ -7,7 +7,7 @@ author_profile: true
 
 ## PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems
 **Researcher**    
-2020 -- Present   
+2020 -- 2021   
 Research and development of a Software-Defined Storage data plane for improving I/O performance of AI-powered applications in HPC infrastructures.    
 **Project reference:** [UTA-EXPL/CA/0075/2019](https://pastor-project.github.io/)
 

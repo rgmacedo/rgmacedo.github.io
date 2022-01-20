@@ -184,7 +184,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 </a>
 <!-- Doi -->
 <a href="https://doi.org/10.1109/SRDSW49218.2019.00012">
-  <img src="https://img.shields.io/badge/doi-10.1109%2F0.1109/SRDSW49218.2019.00012-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109%2FSRDSW49218.2019.00012-lightgrey?style=plastic" />
 </a>
 
 
