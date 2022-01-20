@@ -61,25 +61,55 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 ===
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
-*PAIO: A Software-Defined Storage Data Plane Framework.* 
-ArXiv -- Computing Research Repository (CoRR), 2021.    
-[[ArXiv]](https://arxiv.org/abs/2106.03617)
-[[cite]](https://rgmacedo.github.io/files/2021/arxiv21-paio/bibtex.bib)
-[[code]](https://github.com/dsrhaslab/paio)
+*PAIO: General, Portable I/O Optimizations With Minor Application Modifications.* 
+20th USENIX Conference on File and Storage Technologies (USENIX FAST 22), 2022.    
+<!-- PDF -->
+<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://rgmacedo.github.io">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+</a>
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2106.03617">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/paio">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
 
 **Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
 *The Case for Storage Optimization Decoupling in Deep Learning Frameworks.* 
 IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021.    
-[[pdf]](https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21.pdf)
-[[cite]](https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/bibtex.bib)
-[[code]](https://github.com/dsrhaslab/prisma)
-[[slides]](https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21-presentation.pdf)
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21-presentation.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/prisma">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fprisma-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
 
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.* ACM Computing Surveys, 2020.   
-[[pdf]]( https://dl.acm.org/doi/10.1145/3385896?cid=99659535288)
-[[cite]](https://rgmacedo.github.io/files/2020/csur20-sds-survey/bibtex.bib)
-<!-- [[pdf]](https://dl.acm.org/doi/abs/10.1145/3385896) -->
-<!-- [[doi]](https://doi.org/10.1145/3385896) -->
+<!-- PDF -->
+<a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://rgmacedo.github.io/files/2020/csur20-sds-survey/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+</a>
 
 
 ***
