@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2022
+
+* Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).
+
 ## 2021
 
 * **Aug 2021** We have two new papers on Software-Defined Storage for Deep Learning, that were accepted at the [REX-IO Workshop](https://sites.google.com/view/rexio/home), co-located with [IEEE Cluster Conference](https://clustercomp.org/2021/).    
