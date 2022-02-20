@@ -15,6 +15,7 @@ author_profile: true
 
 
 ### Other Supervision Activities
+**Susana Marques and Tomás Costa.** Benchmark for LSM-based Key-Value Stores.  2021. *(Ongoing)*
 **Maria Beatriz Moreira.** Programmable and adaptable Software-Defined Storage data planes for data transformations (e.g., compression, encryption). 2021. *(Ongoing)*    
 **Pedro Peixoto.** Programmable and adaptable Software-Defined Storage data planes for data transformations (e.g., compression, encryption). 2021. *(Ongoing)*    
 **Rúben Adão.** local data placement strategies. 2021. *(Ongoing)*    

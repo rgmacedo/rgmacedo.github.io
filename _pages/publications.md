@@ -7,15 +7,41 @@ author_profile: true
 
 ## 2022 
 
+**Accelerating Deep Learning Training through Transparent Storage Tiering**    
+Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
+*22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022.*    
+*To appear.*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/dantas-ccgrid22.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/bibtex.tex">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2022/ccgrid22--monarch/dantas-ccgrid22-presentation.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/monarch">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fmonarch-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://ieeexplore.ieee.org/">
+  <img src="https://img.shields.io/badge/doi-To%20Appear-lightgrey?style=plastic" />
+</a>
+
+
 **PAIO: General, Portable I/O Optimizations With Minor Application Modifications**    
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo.    
-*20th USENIX Conference on File and Storage Technologies, 2022 (to appear)*        
+*20th USENIX Conference on File and Storage Technologies, 2022*        
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
-<a href="https://rgmacedo.github.io">
+<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
   <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
 </a>
 <!-- ArXiv version -->
@@ -29,6 +55,10 @@ author_profile: true
 <!-- Github -->
 <a href="https://github.com/dsrhaslab/paio">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Poster -->
+<a href="https://rgmacedo.github.io/files/2022/fast22-paio/paio-poster.pdf">
+    <img src="https://img.shields.io/badge/-poster-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
 
 
