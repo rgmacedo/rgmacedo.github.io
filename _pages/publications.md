@@ -49,7 +49,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
 <!-- Slides -->
-<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+<a href="https://rgmacedo.github.io/files/2022/fast22-paio/rgmacedo-fast22-presentation.pdf">
     <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
 <!-- Github -->
