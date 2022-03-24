@@ -29,7 +29,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/">
-  <img src="https://img.shields.io/badge/doi-To%20Appear-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-to%20appear-lightgrey?style=plastic" />
 </a>
 
 

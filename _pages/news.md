@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022
 
-**Feb 2022** Our paper *"Accelerating Deep Learning Training through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
+* **Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
 * **Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).
 
 ## 2021
