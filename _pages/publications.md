@@ -7,17 +7,17 @@ author_profile: true
 
 ## 2022 
 
-**Accelerating Deep Learning Training through Transparent Storage Tiering**    
+**Accelerating Deep Learning Training Through Transparent Storage Tiering**    
 Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
 *22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022.*    
 *To appear.*    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/dantas-ccgrid22.pdf">
+<a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/dantas-ccgrid22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/bibtex.tex">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2022/ccgrid22--monarch/dantas-ccgrid22-presentation.pdf">
@@ -29,7 +29,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/">
-  <img src="https://img.shields.io/badge/doi-to%20appear-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-...-lightgrey?style=plastic" />
 </a>
 
 
@@ -42,7 +42,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
   </a>
 <!-- Bibtex -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2106.03617">
@@ -60,6 +60,11 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 <a href="https://rgmacedo.github.io/files/2022/fast22-paio/paio-poster.pdf">
     <img src="https://img.shields.io/badge/-poster-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
+<!-- Presentation -->
+<a href="https://www.youtube.com/watch?v=o9DvOiWp4dI">
+    <img src="https://img.shields.io/badge/-presentation-5e5b5c?style=plastic&logo=youtube&logoColor=white" />
+</a>
+
 
 
 ## 2021
@@ -67,7 +72,18 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 **Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes**    
 Alberto Faria, **Ricardo Macedo**, João Paulo.    
 *22nd ACM/IFIP International Middleware Conference @ 7th International Workshop on Container Technologies and Container Clouds, 2021*
-
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2021/woc21-pav/faria-woc21-paper.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://rgmacedo.github.io/files/2021/woc21-pav/bibtex.bib">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://ieeexplore.ieee.org/abstract/document/9556106">
+  <img src="https://img.shields.io/badge/doi-10.1145%2F3493649.3493653-lightgrey?style=plastic" />
+</a>
 
 **The Case for Storage Optimization Decoupling in Deep Learning Frameworks**    
 **Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
@@ -78,7 +94,7 @@ Alberto Faria, **Ricardo Macedo**, João Paulo.
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21-presentation.pdf">
@@ -103,7 +119,7 @@ Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, Jo
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-monarch/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-monarch/dantas-rexio21-presentation.pdf">
@@ -137,7 +153,7 @@ Best paper runner-up.
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2021/systor21-bdus/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2021/systor21-bdus/bdus-slides.pdf">
@@ -165,7 +181,7 @@ Best paper runner-up.
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2020/csur20-sds-survey/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Doi -->
 <a href="https://doi.org/10.1145/3385896">
@@ -185,7 +201,7 @@ Best paper runner-up.
 </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2019/drss19-programmable-background-tasks/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2019/drss19-programmable-background-tasks/rgmacedo-drss19-presentation.pdf">
@@ -210,7 +226,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2019/drss19-trustfs/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Doi -->
 <a href="https://doi.org/10.1109/SRDSW49218.2019.00012">
@@ -231,7 +247,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2017/srds17-safenosql/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2017/srds17-safenosql/rgmacedo-srds17-safenosql-slides.pdf">
