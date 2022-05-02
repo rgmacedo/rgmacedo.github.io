@@ -10,7 +10,6 @@ author_profile: true
 **Accelerating Deep Learning Training Through Transparent Storage Tiering**    
 Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
 *22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022.*    
-*To appear.*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/dantas-ccgrid22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -81,7 +80,7 @@ Alberto Faria, **Ricardo Macedo**, João Paulo.
   <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Doi -->
-<a href="https://ieeexplore.ieee.org/abstract/document/9556106">
+<a href="https://dl.acm.org/doi/10.1145/3493649.3493653">
   <img src="https://img.shields.io/badge/doi-10.1145%2F3493649.3493653-lightgrey?style=plastic" />
 </a>
 

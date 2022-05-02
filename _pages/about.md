@@ -15,9 +15,9 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 ***
 
-Recent News [(All)](https://rgmacedo.github.io/news/)
+Recent News [(all)](https://rgmacedo.github.io/news/)
 ===
-**Feb 2022** Our paper *"Accelerating Deep Learning Training through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
+**Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
 **Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).    
 **Dec 2021** The [PAStor project](https://pastor-project.github.io/) has come to an end.    
 **Aug 2021** We have two new papers on Software-Defined Storage for Deep Learning.    
@@ -58,18 +58,18 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 ***
 
-Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
+Selected Publications [(all)](https://rgmacedo.github.io/publications/)
 ===
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
-*PAIO: General, Portable I/O Optimizations With Minor Application Modifications.* 
+*PAIO: General, Portable I/O Optimizations With Minor Application Modifications.*    
 20th USENIX Conference on File and Storage Technologies (USENIX FAST 22), 2022.    
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
-<a href="https://rgmacedo.github.io">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2106.03617">
@@ -82,7 +82,7 @@ Selected Publications [(Full list)](https://rgmacedo.github.io/publications/)
 
 
 **Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
-*The Case for Storage Optimization Decoupling in Deep Learning Frameworks.* 
+*The Case for Storage Optimization Decoupling in Deep Learning Frameworks.*    
 IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21.pdf">
@@ -90,7 +90,7 @@ IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envision
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21-presentation.pdf">
@@ -101,14 +101,15 @@ IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envision
     <img src="https://img.shields.io/badge/dsrhaslab%2Fprisma-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.* ACM Computing Surveys, 2020.   
+**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.*    
+ACM Computing Surveys, 2020.   
 <!-- PDF -->
 <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
 <a href="https://rgmacedo.github.io/files/2020/csur20-sds-survey/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic" />
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 
 
