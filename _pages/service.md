@@ -5,9 +5,15 @@ permalink: /service/
 author_profile: true
 ---
 
+## Program Committee Member
+### 2022
+* 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2022](https://sites.google.com/view/rexio/home))
+
+***
+
 ## External Reviewer
 ### 2022
-* IEEE/IFIP International Conference on Dependable Systems and Networks ([DSN 2022]())
+* IEEE/IFIP International Conference on Dependable Systems and Networks ([DSN 2022](https://dsn2022.github.io/))
 
 
 ### 2021
@@ -22,7 +28,7 @@ author_profile: true
 ### 2018
 * ACM/IFIP International Middleware Conference ([Middleware 2018](http://2018.middleware-conference.org/))
 
-
+***
 
 ## Event Organization
 * ACM European Conference on Computer Systems ([EuroSys 2018](https://eurosys2018.org/))

@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2022
 
+* **May 2022** I will give a **talk** about user-level storage data planes at the [ADAC](https://adac.ornl.gov/) Applications Working Group Seminar. 
+* **May 2022** I will serve on the **[Rex-IO '22](https://sites.google.com/view/rexio/home)** PC. 
+* **April 2022** I will give a **talk** on building user-level storage data planes at the [BigHPC Webinar Series](https://bighpc.wavecom.pt/webinar-2-user-level-software-defined-storage-data-planes/).
 * **Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
 * **Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).
 
