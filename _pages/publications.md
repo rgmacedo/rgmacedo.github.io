@@ -11,15 +11,15 @@ author_profile: true
 Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
 *22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022.*    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/dantas-ccgrid22-paper.pdf">
+<a href="https://rgmacedo.github.io/files/2022/ccgrid2022-monarch/dantas-ccgrid22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
-<a href="https://rgmacedo.github.io/files/2022/ccgrid22-monarch/bibtex.tex">
+<a href="https://rgmacedo.github.io/files/2022/ccgrid2022-monarch/bibtex.tex">
   <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
-<a href="https://rgmacedo.github.io/files/2022/ccgrid22--monarch/dantas-ccgrid22-presentation.pdf">
+<a href="https://rgmacedo.github.io/files/2022/ccgrid2022-monarch/dantas-ccgrid22-presentation.pdf">
     <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
 <!-- Github -->
@@ -70,7 +70,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 
 **Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes**    
 Alberto Faria, **Ricardo Macedo**, João Paulo.    
-*22nd ACM/IFIP International Middleware Conference @ 7th International Workshop on Container Technologies and Container Clouds, 2021*
+*22nd ACM/IFIP International Middleware Conference @ 7th International Workshop on Container Technologies and Container Clouds, 2021*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/woc21-pav/faria-woc21-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
