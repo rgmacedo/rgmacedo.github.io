@@ -9,10 +9,11 @@ author_profile: true
 **Alexandre Miranda.** *"Realistic Fault Assessment in SPDK"*. Co-advised with João Paulo. 2021. *(Ongoing)*    
 **João Azevedo.** *"Realistic Fault Assessment for Distributed Storage Systems"*. Co-advised with João Paulo. 2021. *(Ongoing)*    
 **Alberto Faria.** *"Software-Defined Storage Control for Containerized HPC Applications"*. Co-advised with João Paulo and António Sousa. 2020. *(Ongoing)*    
-**Marco Dantas.** *"Accelerating Deep Learning Training on High-Performance Computing with Storage Tiering"*. Co-advised with João Paulo and Rui Oliveira. 2020. *(Ongoing)*    
 
 ***
 
+**Marco Dantas.** *"Accelerating Deep Learning Training on High-Performance Computing with Storage Tiering"*. Co-advised with João Paulo and Rui Oliveira. 2020-2022.    
+<!-- (20 out of 20) -->    
 **Cláudia Mendonça.** *"PRISMA: A Prefetching Storage Middleware for Accelerating Deep learning Frameworks"*. U. Minho, 2019-2020. Co-advised with João Paulo and António Sousa.    
 **Diogo Leitão.** *"RSafeFS: A Modular File System for Remote Storage"*. U. Minho, 2019-2020. Co-advised with João Paulo and José Orlando Pereira.     
 
