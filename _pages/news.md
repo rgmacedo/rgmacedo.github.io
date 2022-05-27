@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022
 
-* **May 2022** I will give a **talk** about user-level storage data planes at the [ADAC](https://adac.ornl.gov/) Applications Working Group Seminar. 
+* **May 2022** I will give a **talk** about user-level storage data planes at the [ADAC](https://adac.ornl.gov/) Applications Working Group Seminar ([slides](https://rgmacedo.github.io/files/2022/talks/rgmacedo-adac-webinar-presentation.pdf)). 
 * **May 2022** I will serve on the **[Rex-IO '22](https://sites.google.com/view/rexio/home)** PC. 
 * **April 2022** I will give a **talk** on building user-level storage data planes at the [BigHPC Webinar Series](https://bighpc.wavecom.pt/webinar-2-user-level-software-defined-storage-data-planes/) ([video](https://www.youtube.com/watch?v=1RyYRtveEIM), [slides](https://rgmacedo.github.io/files/2022/talks/rgmacedo-bighpc-webinar-presentation.pdf)).
 * **Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
@@ -17,7 +17,7 @@ author_profile: true
 
 * **Dec 2021** The [PAStor project](https://pastor-project.github.io/) has come to an end. It was a great exploratory project, with strong set of publications.
 * **Aug 2021** We have two new papers on Software-Defined Storage for Deep Learning, that were accepted at the [REX-IO Workshop](https://sites.google.com/view/rexio/home), co-located with [IEEE Cluster Conference](https://clustercomp.org/2021/).    
-* **Jun 2021** We have a new paper on ArXiv: [*"PAIO: A Software-Defined Storage Data Plane Framework"*.](https://arxiv.org/abs/2106.03617).
+* **Jun 2021** We have a new paper on ArXiv: [*"PAIO: A Software-Defined Storage Data Plane Framework"*](https://arxiv.org/abs/2106.03617).
 * **May 2021** Our paper *"BDUS: Implementing Block Devices in User Space"* was accepted at [ACM SYSTOR 2021](https://www.systor.org/2021/).
 
 
