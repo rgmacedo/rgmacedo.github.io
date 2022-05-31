@@ -40,7 +40,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
-<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+<a href="https://rgmacedo.github.io/files/2022/fast22-paio/bibtex.bib">
   <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- ArXiv version -->
@@ -59,7 +59,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 <a href="https://rgmacedo.github.io/files/2022/fast22-paio/paio-poster.pdf">
     <img src="https://img.shields.io/badge/-poster-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
-<!-- Presentation -->
+<!-- Video -->
 <a href="https://www.youtube.com/watch?v=o9DvOiWp4dI">
     <img src="https://img.shields.io/badge/-presentation-5e5b5c?style=plastic&logo=youtube&logoColor=white" />
 </a>
