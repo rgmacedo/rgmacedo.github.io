@@ -7,6 +7,7 @@ author_profile: true
 
 ## 2022
 
+* **Jun 2022** I will give a **talk** about user-level storage data planes at the [ENSD22](https://www.gsd.inesc-id.pt/~ENSD2022/) Encontro Nacional de Sistemas Distribuídos ([slides](https://rgmacedo.github.io/files/2022/ensd22/rgmacedo-presentation.pdf), [abstract](https://rgmacedo.github.io/files/2022/ensd22/rgmacedo-fast-abstract.pdf)).
 * **May 2022** I will give a **talk** about user-level storage data planes at the [ADAC](https://adac.ornl.gov/) Applications Working Group Seminar ([slides](https://rgmacedo.github.io/files/2022/talks/rgmacedo-adac-webinar-presentation.pdf)). 
 * **May 2022** I will serve on the **[Rex-IO '22](https://sites.google.com/view/rexio/home)** PC. 
 * **April 2022** I will give a **talk** on building user-level storage data planes at the [BigHPC Webinar Series](https://bighpc.wavecom.pt/webinar-2-user-level-software-defined-storage-data-planes/) ([video](https://www.youtube.com/watch?v=1RyYRtveEIM), [slides](https://rgmacedo.github.io/files/2022/talks/rgmacedo-bighpc-webinar-presentation.pdf)).
