@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2022 
 
+**Protecting Metadata Servers From Harm Through Application-level I/O Control**    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrel, Richard Todd Evans, João Paulo.    
+*IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022.*    
+
+
 **Accelerating Deep Learning Training Through Transparent Storage Tiering**    
 Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
 *22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022.*    
@@ -27,8 +32,8 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
     <img src="https://img.shields.io/badge/dsrhaslab%2Fmonarch-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 <!-- Doi -->
-<a href="https://ieeexplore.ieee.org/">
-  <img src="https://img.shields.io/badge/doi-...-lightgrey?style=plastic" />
+<a href="https://ieeexplore.ieee.org/document/9826112">
+  <img src="https://img.shields.io/badge/doi-10.1109/CCGrid54584.2022.00011-lightgrey?style=plastic" />
 </a>
 
 
@@ -220,7 +225,7 @@ Best paper runner-up.
 Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo, José Pereira, Danny Harnik.    
 *38th International Symposium on Reliable Distributed Systems Workshops @ 1st Workshop on Distributed and Reliable Storage Systems, 2019*    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2019/drss19-trustfs/rgmacedo-trustfs.pdf">
+<a href="https://rgmacedo.github.io/files/2019/drss19-trustfs/trustfs-rgmacedo-2019.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
