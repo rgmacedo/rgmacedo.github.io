@@ -10,6 +10,26 @@ author_profile: true
 **Protecting Metadata Servers From Harm Through Application-level I/O Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrel, Richard Todd Evans, João Paulo.    
 *IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022.*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2022/rexio2022-padll/padll-rexio22-paper.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://rgmacedo.github.io/files/2022/rexio2022-padll/bibtex.tex">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2022/rexio2022-padll/mmiranda-rexio22-presentation.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/padll">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fpadll-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://ieeexplore.ieee.org/document/9912726">
+  <img src="https://img.shields.io/badge/doi-10.1109/CLUSTER51413.2022.00075-lightgrey?style=plastic" />
+</a>
 
 
 **Accelerating Deep Learning Training Through Transparent Storage Tiering**    
