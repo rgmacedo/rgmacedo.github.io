@@ -11,15 +11,15 @@ author_profile: true
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrel, Richard Todd Evans, João Paulo.    
 *IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022.*    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2022/rexio2022-padll/padll-rexio22-paper.pdf">
+<a href="https://rgmacedo.github.io/files/2022/rexio22-padll/padll-rexio22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
 <!-- Bibtex -->
-<a href="https://rgmacedo.github.io/files/2022/rexio2022-padll/bibtex.tex">
+<a href="https://rgmacedo.github.io/files/2022/rexio22-padll/bibtex.tex">
   <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Slides -->
-<a href="https://rgmacedo.github.io/files/2022/rexio2022-padll/mmiranda-rexio22-presentation.pdf">
+<a href="https://rgmacedo.github.io/files/2022/rexio22-padll/mmiranda-rexio22-presentation.pdf">
     <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
 <!-- Github -->
