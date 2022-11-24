@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Program Committee Member
+### 2023
+* **ShadowPC:** ACM European Conference on Computer Systems ([EuroSys 2023](https://2023.eurosys.org/))
+* 4th Workshop on Extreme-Scale Storage and Analysis, co-located with IEEE IPDPS ([ESSA 2023](https://sites.google.com/view/essa-2023/home))
+
 ### 2022
 * 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2022](https://sites.google.com/view/rexio/home))
 
