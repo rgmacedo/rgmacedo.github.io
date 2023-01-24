@@ -5,8 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
-## 2022
+## 2023
+* **Jan 2023** I successfully defended my PhD. Thank you to all members of the jury (Professor Angelo Bilas, Professor Luís Veiga, Professor António Sousa, Professor António Teixeira, Professor João Fernandes, and Professor João Paulo), to my advisors (Professor João Paulo and Professor José Pereira), my many collaborators, and to my family and friends.
 
+## 2022
 * **Jul 2022** We have a new paper on Software-Defined Storage for modern HPC infrastructures, which was accepted at the [REX-IO Workshop](https://sites.google.com/view/rexio/home), co-located with [IEEE Cluster Conference](https://clustercomp.org/2022/).
 * **Jun 2022** I will give a **talk** about user-level storage data planes at the [ENSD22](https://www.gsd.inesc-id.pt/~ENSD2022/) Encontro Nacional de Sistemas Distribuídos ([slides](https://rgmacedo.github.io/files/2022/ensd22/rgmacedo-presentation.pdf), [abstract](https://rgmacedo.github.io/files/2022/ensd22/rgmacedo-fast-abstract.pdf)).
 * **May 2022** I will give a **talk** about user-level storage data planes at the [ADAC](https://adac.ornl.gov/) Applications Working Group Seminar ([slides](https://rgmacedo.github.io/files/2022/talks/rgmacedo-adac-webinar-presentation.pdf)). 

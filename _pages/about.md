@@ -17,8 +17,7 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(all)](https://rgmacedo.github.io/news/)
 ===
-**Jan 2023** I successfully defended my PhD!     
-**Sep 2022** Our paper *"Protecting Metadata Servers From Harm Through Application-level I/O Control"* was accepted at [REX-IO workshop](https://sites.google.com/view/rexio/).     
+**Jan 2023** I successfully defended my PhD!         
 **Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
 **Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).    
 **Dec 2021** The [PAStor project](https://pastor-project.github.io/) has come to an end.       
