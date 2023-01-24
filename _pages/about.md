@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a researcher at HASLab INESC TEC and a 4th year PhD student at University of Minho, advised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop). 
+I am a researcher at HASLab INESC TEC and an invited assistant professor at University of Minho.
 My research interests include local and distributed storage systems, with particular focus in Software-Defined Storage, programmable and distributed storage, and kernel-/user-space storage technologies.    
 Currently, I am working on a Software-Defined Storage data plane framework for enforcing end-to-end performance policies in complex storage infrastructures.
 
@@ -17,21 +17,22 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(all)](https://rgmacedo.github.io/news/)
 ===
+**Jan 2023** I successfully defended my PhD!     
+**Sep 2022** Our paper *"Protecting Metadata Servers From Harm Through Application-level I/O Control"* was accepted at [REX-IO workshop](https://sites.google.com/view/rexio/).     
 **Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
 **Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).    
-**Dec 2021** The [PAStor project](https://pastor-project.github.io/) has come to an end.    
-**Aug 2021** We have two new papers on Software-Defined Storage for Deep Learning.    
+**Dec 2021** The [PAStor project](https://pastor-project.github.io/) has come to an end.       
 
 ***
 
 
 Education
 ===
-**Ph.D --- MAP-i Doctoral Program in Computer Science (4th year)**    
+**Ph.D --- MAP-i Doctoral Program in Computer Science**    
 Thesis: *"User-level Software-Defined Storage Data Planes."*    
 Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop).    
 Universities of Minho, Aveiro, and Porto.    
-2017 --- Present
+2017 --- 2023
 
 **MSc --- Integrated Master in Computer Science**    
 Thesis: *"Secure Computation in NoSQL Databases."*    
@@ -43,16 +44,16 @@ University of Minho.
 
 Experience
 ===
-**Research Intern --- [AIST](https://www.aist.go.jp/index_en.html)**    
+**Research Intern, [AIST](https://www.aist.go.jp/index_en.html).**    
 Supervisor: Jason Haga    
 Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).    
 2020.08 --- 2020.09
 
-**Researcher --- HASLab INESC TEC**    
+**Researcher (PhD student), HASLab INESC TEC.**    
 Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    
 2018 --- Present
 
-**Researcher --- HASLab INESC TEC**    
+**Researcher (MSc student), HASLab INESC TEC.**    
 Research in secure computation in NoSQL and SQL databases to provide flexible performance and security over cloud-based databases systems.    
 2016 --- 2017
 

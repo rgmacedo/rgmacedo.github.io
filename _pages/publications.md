@@ -283,13 +283,31 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 </a>
 
 
+## Theses 
+**User-level Software-Defined Storage Data Planes**    
+**Ricardo Macedo**. Supervised by [João Paulo](https://jtpaulo.github.io/) and [José Pereira](https://haslab.uminho.pt/jop).    
+*PhD thesis, Universities of Minho, Aveiro, and Porto, 2023.*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis-slides.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://repositorium.sdum.uminho.pt/handle/1822/82135">
+  <img src="https://img.shields.io/badge/uri-1822%2F821135-lightgrey?style=plastic" />
+</a>
+
+
+
 **Computação Segura em Bases de Dados NoSQL**    
-**Ricardo Macedo**. Supervised by João Paulo and Rui Oliveira.    
+**Ricardo Macedo**. Supervised by [João Paulo](https://jtpaulo.github.io/) and [Rui Oliveira](https://haslab.uminho.pt/rco/).    
 *Master Thesis, University of Minho, 2017 (Portuguese)*    
 <!-- PDF -->
 <a href="https://repositorium.sdum.uminho.pt/handle/1822/62116">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
-
 
 

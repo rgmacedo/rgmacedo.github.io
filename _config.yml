@@ -74,7 +74,7 @@ social:
 author:
   name             : "Ricardo Macedo"
   avatar           : "https://rgmacedo.github.io/images/rgmacedo_photo.png"
-  bio              : "PhD student at U.Minho. Researcher at HASLab INESC TEC."
+  bio              : "Researcher at HASLab INESC TEC. Invited assistant professor at University of Minho."
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -95,6 +95,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  mastodon         : "@rgmacedo@discuss.systems"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
