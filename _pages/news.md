@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2023
-* **Jan 2023** I successfully defended my PhD. Thank you to all members of the jury (Professor Angelo Bilas, Professor Luís Veiga, Professor António Sousa, Professor António Teixeira, Professor João Fernandes, and Professor João Paulo), to my advisors (Professor João Paulo and Professor José Pereira), my many collaborators, and to my family and friends.
+* **Jan 2023** I successfully defended my PhD. Thank you to all members of the jury (Professors Angelo Bilas, Luís Veiga, António Sousa, António Teixeira, João Fernandes, and João Paulo), to my advisors (Professor João Paulo and Professor José Pereira), my many collaborators, and to my family and friends.
 
 ## 2022
 * **Jul 2022** We have a new paper on Software-Defined Storage for modern HPC infrastructures, which was accepted at the [REX-IO Workshop](https://sites.google.com/view/rexio/home), co-located with [IEEE Cluster Conference](https://clustercomp.org/2022/).

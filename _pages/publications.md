@@ -5,6 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023 
+
+**User-level Software-Defined Storage Data Planes**    
+**Ricardo Macedo**.    
+*PhD thesis, Universities of Minho, Aveiro, and Porto, 2023.*    
+ Supervised by [João Paulo](https://jtpaulo.github.io/) and [José Pereira](https://haslab.uminho.pt/jop).    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis-slides.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://repositorium.sdum.uminho.pt/handle/1822/82135">
+  <img src="https://img.shields.io/badge/uri-1822%2F821135-lightgrey?style=plastic" />
+</a>
+
+
 ## 2022 
 
 **Protecting Metadata Servers From Harm Through Application-level I/O Control**    
@@ -281,25 +301,6 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 <a href="https://doi.org/10.1109/SRDS.2017.10">
   <img src="https://img.shields.io/badge/doi-10.1109%2FSRDS.2017.10-lightgrey?style=plastic" />
 </a>
-
-
-## Theses 
-**User-level Software-Defined Storage Data Planes**    
-**Ricardo Macedo**. Supervised by [João Paulo](https://jtpaulo.github.io/) and [José Pereira](https://haslab.uminho.pt/jop).    
-*PhD thesis, Universities of Minho, Aveiro, and Porto, 2023.*    
-<!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis.pdf">
-    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a>
-<!-- Slides -->
-<a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis-slides.pdf">
-    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
-</a>
-<!-- Doi -->
-<a href="https://repositorium.sdum.uminho.pt/handle/1822/82135">
-  <img src="https://img.shields.io/badge/uri-1822%2F821135-lightgrey?style=plastic" />
-</a>
-
 
 
 **Computação Segura em Bases de Dados NoSQL**    

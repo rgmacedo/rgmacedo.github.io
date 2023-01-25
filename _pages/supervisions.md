@@ -23,7 +23,9 @@ author_profile: true
 **Diogo Leitão.** *"RSafeFS: A Modular File System for Remote Storage"*. U. Minho, 2019-2020. Co-advised with João Paulo and José Orlando Pereira.     
 
 
-## Other supervision activities
+***
+
+## Research mentorship
 **Maria Beatriz Moreira.** Programmable and adaptable storage data planes for data transformations (2021 - 2022)     
 **Pedro Peixoto.** Programmable and adaptable storage data planes for data transformations (2021 - 2022)     
 **Rúben Adão.** Local data placement strategies (2021 - 2022)     

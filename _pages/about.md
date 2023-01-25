@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a researcher at HASLab INESC TEC and an invited assistant professor at University of Minho.
+I am a researcher at INESC TEC and an invited assistant professor at University of Minho.
 My research interests include local and distributed storage systems, with particular focus in Software-Defined Storage, programmable and distributed storage, and kernel-/user-space storage technologies.    
 Currently, I am working on a Software-Defined Storage data plane framework for enforcing end-to-end performance policies in complex storage infrastructures.
 
