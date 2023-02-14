@@ -62,8 +62,8 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Selected Publications [(all)](https://rgmacedo.github.io/publications/)
 ===
 
-**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrel, Richard Todd Evans, José Pereira, João Paulo.    
-*Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control*    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
+*Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control.*    
 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (IEEE/ACM CCGrid 23), 2023.    
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2302.06418">
