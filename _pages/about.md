@@ -17,6 +17,7 @@ Currently, I am working on a Software-Defined Storage data plane framework for e
 
 Recent News [(all)](https://rgmacedo.github.io/news/)
 ===
+**Feb 2023** Our paper *"Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control"* was accepted at [IEEE/ACM CCGrid 2023](https://ccgrid2023.iisc.ac.in/).    
 **Jan 2023** I successfully defended my PhD!         
 **Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
 **Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).    
@@ -60,6 +61,23 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 Selected Publications [(all)](https://rgmacedo.github.io/publications/)
 ===
+
+**Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrel, Richard Todd Evans, José Pereira, João Paulo.    
+*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (IEEE/ACM CCGrid 23), 2023.*    
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2302.06418">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+<!-- Github PADLL -->
+<a href="https://github.com/dsrhaslab/padll">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fpadll-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Github Cheferd-->
+<a href="https://github.com/dsrhaslab/cheferd">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
 *PAIO: General, Portable I/O Optimizations With Minor Application Modifications.*    
 20th USENIX Conference on File and Storage Technologies (USENIX FAST 22), 2022.    
@@ -80,26 +98,6 @@ Selected Publications [(all)](https://rgmacedo.github.io/publications/)
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-
-**Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
-*The Case for Storage Optimization Decoupling in Deep Learning Frameworks.*    
-IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021.    
-<!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21.pdf">
-    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-  </a>
-<!-- Bibtex -->
-<a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
-</a>
-<!-- Slides -->
-<a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21-presentation.pdf">
-    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
-</a>
-<!-- Github -->
-<a href="https://github.com/dsrhaslab/prisma">
-    <img src="https://img.shields.io/badge/dsrhaslab%2Fprisma-5e5b5c?style=plastic&logo=github&logoColor=white"/>
-</a>
 
 **Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.*    
 ACM Computing Surveys, 2020.   

@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2023
+* **Feb 2023** Our paper *"Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control"* was accepted at [IEEE/ACM CCGrid 2023](https://ccgrid2023.iisc.ac.in/). Available on [ArXiv](https://arxiv.org/abs/2302.06418).  
 * **Jan 2023** I successfully defended my PhD. Thank you to all members of the jury (Professors Angelo Bilas, Luís Veiga, António Sousa, António Teixeira, João Fernandes, and João Paulo), to my advisors (Professor João Paulo and Professor José Pereira), my many collaborators, and to my family and friends.
 
 ## 2022

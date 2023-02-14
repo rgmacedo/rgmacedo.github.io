@@ -7,6 +7,23 @@ author_profile: true
 
 ## 2023 
 
+**Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
+*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2023.*    
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2302.06418">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+<!-- Github PADLL -->
+<a href="https://github.com/dsrhaslab/padll">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fpadll-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Github Cheferd-->
+<a href="https://github.com/dsrhaslab/cheferd">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
+
 **User-level Software-Defined Storage Data Planes**    
 **Ricardo Macedo**.    
 *PhD thesis, Universities of Minho, Aveiro, and Porto, 2023.*    
@@ -28,7 +45,7 @@ author_profile: true
 ## 2022 
 
 **Protecting Metadata Servers From Harm Through Application-level I/O Control**    
-**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrel, Richard Todd Evans, João Paulo.    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, João Paulo.    
 *IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022.*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/rexio22-padll/padll-rexio22-paper.pdf">
