@@ -7,6 +7,19 @@ author_profile: true
 
 ## 2023 
 
+**Diagnosing applications' I/O behavior through system call observability**    
+Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
+*IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023.*
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2304.08569">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+<!-- Github DIO -->
+<a href="https://github.com/dsrhaslab/dio">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fdio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
+
 **Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
 *23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2023.*    
@@ -21,6 +34,10 @@ author_profile: true
 <!-- Github Cheferd-->
 <a href="https://github.com/dsrhaslab/cheferd">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/rgmacedo-padll-slides.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
 </a>
 
 

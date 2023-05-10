@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Program Committee Member
+### 2024
+* ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
+
 ### 2023
 * ACM European Conference on Computer Systems ([EuroSys 2023](https://2023.eurosys.org/)) [**ShadowPC**]
 * 4th Workshop on Extreme-Scale Storage and Analysis, co-located with IEEE IPDPS ([ESSA 2023](https://sites.google.com/view/essa-2023/home))

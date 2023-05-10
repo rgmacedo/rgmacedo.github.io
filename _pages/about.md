@@ -99,7 +99,8 @@ Selected Publications [(all)](https://rgmacedo.github.io/publications/)
 </a>
 
 
-**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. *A Survey and Classification of Software-Defined Storage Systems.*    
+**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. 
+*A Survey and Classification of Software-Defined Storage Systems.*    
 ACM Computing Surveys, 2020.   
 <!-- PDF -->
 <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
