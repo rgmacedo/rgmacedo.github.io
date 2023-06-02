@@ -10,17 +10,17 @@ author_profile: true
 **Maria Ramos.** *"Realistic Fault Assessment in Distributed Storage Systems"*. Co-advised with João Paulo and Tânia Esteves. 2022. *(Ongoing)*    
 **Pedro Peixoto.** *"Programmable Caches with System-wide Visibility"*. Co-advised with João Paulo. 2022. *(Ongoing)*    
 **Rúben Adão.** *"Co-designing LSM-based Key-Value Stores with Hybrid storage for Optimal Cost-Performance Ratio"*. Co-advised with João Paulo. 2022. *(Ongoing)*    
-**Alexandre Miranda.** *"Realistic Fault Assessment in SPDK"*. Co-advised with João Paulo. 2021. *(Ongoing)*    
 
 <!-- **Alberto Faria.** *"Software-Defined Storage Control for Containerized HPC Applications"*. Co-advised with João Paulo and António Sousa. 2020. *(Ongoing)*     -->
 
 ***
 
-**João Azevedo.** *"Realistic Fault Assessment for Distributed Storage Systems"*. Co-advised with João Paulo. 2021-2022.    
-**Marco Dantas.** *"Accelerating Deep Learning Training on High-Performance Computing with Storage Tiering"*. Co-advised with João Paulo and Rui Oliveira. 2020-2022.    
+**Alexandre Miranda.** *"Realistic Fault Assessment in SPDK"*. Co-advised with João Paulo. U. Minho, 2021-2023.    
+**João Azevedo.** *"Realistic Fault Assessment for Distributed Storage Systems"*. Co-advised with João Paulo. U. Minho, 2021-2022.    
+**Marco Dantas.** *"Accelerating Deep Learning Training on High-Performance Computing with Storage Tiering"*. Co-advised with João Paulo and Rui Oliveira. U. Minho, 2020-2022.    
 <!-- (20 out of 20) -->
-**Cláudia Mendonça.** *"PRISMA: A Prefetching Storage Middleware for Accelerating Deep learning Frameworks"*. U. Minho, 2019-2020. Co-advised with João Paulo and António Sousa.    
-**Diogo Leitão.** *"RSafeFS: A Modular File System for Remote Storage"*. U. Minho, 2019-2020. Co-advised with João Paulo and José Orlando Pereira.     
+**Cláudia Mendonça.** *"PRISMA: A Prefetching Storage Middleware for Accelerating Deep learning Frameworks"*. Co-advised with João Paulo and António Sousa. U. Minho, 2019-2020.     
+**Diogo Leitão.** *"RSafeFS: A Modular File System for Remote Storage"*. Co-advised with João Paulo and José Orlando Pereira. U. Minho, 2019-2020.      
 
 
 ***

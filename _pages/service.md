@@ -10,11 +10,12 @@ author_profile: true
 * ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
 
 ### 2023
+* 3rd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2023](https://sites.google.com/view/rexio/home))
 * ACM European Conference on Computer Systems ([EuroSys 2023](https://2023.eurosys.org/)) [**ShadowPC**]
 * 4th Workshop on Extreme-Scale Storage and Analysis, co-located with IEEE IPDPS ([ESSA 2023](https://sites.google.com/view/essa-2023/home))
 
 ### 2022
-* 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2022](https://sites.google.com/view/rexio/home))
+* 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2022](https://sites.google.com/view/rexio/previous-editions/rex-io-2022/rex-io-2022-program-committee))
 
 ***
 

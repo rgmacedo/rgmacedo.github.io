@@ -9,7 +9,7 @@ author_profile: true
 
 **Diagnosing applications' I/O behavior through system call observability**    
 Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
-*IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023.*
+*IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023.*    
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2304.08569">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />

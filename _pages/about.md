@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 
-I am a researcher at INESC TEC and an invited assistant professor at University of Minho.
-My research interests include local and distributed storage systems, with particular focus in Software-Defined Storage, programmable and distributed storage, and kernel-/user-space storage technologies.    
-Currently, I am working on a Software-Defined Storage data plane framework for enforcing end-to-end performance policies in complex storage infrastructures.
+I am a Researcher at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
+My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern, large-scale I/O infrastructures.
 
 ***
 
@@ -30,13 +29,13 @@ Education
 ===
 **Ph.D --- MAP-i Doctoral Program in Computer Science**    
 Thesis: *"User-level Software-Defined Storage Data Planes."*    
-Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://haslab.uminho.pt/jop).    
+Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. José Pereira](https://www.inesctec.pt/en/people/jose-orlando-pereira).    
 Universities of Minho, Aveiro, and Porto.    
 2017 --- 2023
 
 **MSc --- Integrated Master in Computer Science**    
 Thesis: *"Secure Computation in NoSQL Databases."*    
-Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. Rui Oliveira](https://haslab.uminho.pt/rco).    
+Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. Rui Oliveira](https://www.inesctec.pt/en/people/rui-carlos-oliveira).    
 University of Minho.    
 2011 --- 2017
 
@@ -44,14 +43,14 @@ University of Minho.
 
 Experience
 ===
+**Researcher (PhD student), HASLab INESC TEC.**    
+Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    
+2018 --- 2023
+
 **Research Intern, [AIST](https://www.aist.go.jp/index_en.html).**    
 Supervisor: Jason Haga    
 Research and development a Software-Defined Storage data plane for ensuring dynamic per-application bandwidth guarantees under shared storage in the ABCI supercomputer (in collaboration with Jason Haga and Yusuke Tanimura).    
 2020.08 --- 2020.09
-
-**Researcher (PhD student), HASLab INESC TEC.**    
-Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    
-2018 --- Present
 
 **Researcher (MSc student), HASLab INESC TEC.**    
 Research in secure computation in NoSQL and SQL databases to provide flexible performance and security over cloud-based databases systems.    
