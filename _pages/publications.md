@@ -43,10 +43,6 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 <a href="https://github.com/dsrhaslab/cheferd">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
-<!-- Slides -->
-<a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/rgmacedo-padll-slides.pdf">
-    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
-</a>
 
 
 **User-level Software-Defined Storage Data Planes**    
