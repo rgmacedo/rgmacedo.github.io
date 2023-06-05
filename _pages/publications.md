@@ -23,6 +23,14 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 **Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
 *23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2023.*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/padll-ccgrid23-rgmacedo.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Slides -->
+<a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/padll-ccgrid23-rgmacedo-slides.pdf">
+    <img src="https://img.shields.io/badge/-slides-5e5b5c?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+</a>
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2302.06418">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
