@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## 2023
+* **Oct 2023** Our paper *"Toward a practical and timely diagnosis of applications’ I/O behavior"* led by Tânia Esteves was accepted at IEEE Access.
+* **Jun 2023** Our paper *"Diagnosing applications’ I/O behavior through system call observability"* led by Tânia Esteves was accepted at [DCDS Workshop](http://dcds.lasige.di.fc.ul.pt/), co-located with [IEEE/IFIP International Conference on Dependable Systems and Networks](https://dsn2023.dei.uc.pt/).
 * **Feb 2023** Our paper *"Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control"* was accepted at [IEEE/ACM CCGrid 2023](https://ccgrid2023.iisc.ac.in/). Available on [ArXiv](https://arxiv.org/abs/2302.06418).  
 * **Jan 2023** I successfully defended my PhD. Thank you to all members of the jury (Professors Angelo Bilas, Luís Veiga, António Sousa, António Teixeira, João Fernandes, and João Paulo), to my advisors (Professor João Paulo and Professor José Pereira), my many collaborators, and to my family and friends.
 

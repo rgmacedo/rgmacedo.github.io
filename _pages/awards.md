@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+**2023 Cor Baayen Early Career Researcher Award (Finalist).** Finalist of the Car Baayen early career research award, held by the European Consortium for Informatics and Mathematics (ERCIM). 2023.    
+
 **SYSTOR'21 Best Paper Runner-up.** The paper *"BDUS: Implementing Block Devices in User Space"* was one of the **best paper runner-up** of the *"14th ACM International System and Storage Conference"*. 2021.    
 
 **ATC'21 Student Grant.** 2021 USENIX Annual Technical Conference, USENIX Association. 2021.    

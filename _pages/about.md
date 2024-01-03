@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a Researcher at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
-My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern, large-scale I/O infrastructures.
+My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern large-scale I/O infrastructures.
 
 ***
 
@@ -43,6 +43,10 @@ University of Minho.
 
 Experience
 ===
+**Assistant Researcher, HASLab INESC TEC.**    
+Research in storage and operating systems, ...   
+2023 --- present
+
 **Researcher (PhD student), HASLab INESC TEC.**    
 Research in distributed storage systems, namely Software-Defined Storage, local and distributed storage systems, and user-space technologies.    
 2018 --- 2023

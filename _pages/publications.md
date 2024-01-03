@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## 2023 
+**Toward a practical and timely diagnosis of applications' I/O behavior**    
+Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
+*IEEE Access (11), 2023.*    
+
 
 **Diagnosing applications' I/O behavior through system call observability**    
 Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
