@@ -19,7 +19,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/document/10271305">
-  <img src="https://img.shields.io/badge/10.1109/ACCESS.2023.3322104-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109/ACCESS.2023.3322104-lightgrey?style=plastic" />
 </a>
 
 
@@ -40,7 +40,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 </a>
 <!-- Doi -->
 <a href="https://ieeexplore.ieee.org/document/10207129">
-  <img src="https://img.shields.io/badge/doi-10.1109/DSN-W58399.2023.00022-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/doi-10.1109/DSN.W58399.2023.00022-lightgrey?style=plastic" />
 </a>
 
 
