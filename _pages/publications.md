@@ -9,11 +9,27 @@ author_profile: true
 **Toward a practical and timely diagnosis of applications' I/O behavior**    
 Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
 *IEEE Access (11), 2023.*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2023/access23-dio/dio-access-esteves.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Github DIO -->
+<a href="https://github.com/dsrhaslab/dio">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fdio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://ieeexplore.ieee.org/document/10271305">
+  <img src="https://img.shields.io/badge/10.1109/ACCESS.2023.3322104-lightgrey?style=plastic" />
+</a>
 
 
 **Diagnosing applications' I/O behavior through system call observability**    
 Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
 *IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023.*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2023/dsnw23-dio/dio-dsnw-esteves.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2304.08569">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
@@ -22,6 +38,11 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 <a href="https://github.com/dsrhaslab/dio">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fdio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
+<!-- Doi -->
+<a href="https://ieeexplore.ieee.org/document/10207129">
+  <img src="https://img.shields.io/badge/10.1109/DSN-W58399.2023.00022-lightgrey?style=plastic" />
+</a>
+
 
 
 **Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
@@ -46,6 +67,10 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 <!-- Github Cheferd-->
 <a href="https://github.com/dsrhaslab/cheferd">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://ieeexplore.ieee.org/document/10171504">
+  <img src="https://img.shields.io/badge/10.1109/CCGrid57682.2023.00015-lightgrey?style=plastic" />
 </a>
 
 
