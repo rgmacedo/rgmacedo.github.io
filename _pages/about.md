@@ -44,7 +44,7 @@ University of Minho.
 Experience
 ===
 **Assistant Researcher, HASLab INESC TEC.**    
-Research in storage and operating systems, ...   
+Research in storage and operating systems for modern, large-scale I/O infrastructures.   
 2023 --- present
 
 **Researcher (PhD student), HASLab INESC TEC.**    
