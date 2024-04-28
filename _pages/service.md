@@ -19,6 +19,16 @@ author_profile: true
 
 ***
 
+## Journal
+
+### 2024 
+* Journal of Supercomputing
+
+### 2023
+* Journal of Supercomputing
+
+***
+
 ## External Reviewer
 ### 2022
 * IEEE/IFIP International Conference on Dependable Systems and Networks ([DSN 2022](https://dsn2022.github.io/))

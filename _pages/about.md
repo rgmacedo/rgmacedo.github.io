@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a Researcher at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
-My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern large-scale I/O infrastructures.
+I am an **Assistant Researcher** at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
+My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern large-scale I/O infrastructures, namely cloud and HPC datacenters.
 
 ***
 
