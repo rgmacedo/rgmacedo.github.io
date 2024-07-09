@@ -7,6 +7,7 @@ author_profile: true
 
 ## Program Committee Member
 ### 2024
+* 30th International Conference on Parallel and Distributed Computing ([Euro-Par 2024](https://2024.euro-par.org/)), Posters and Demos track
 * ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
 
 ### 2023

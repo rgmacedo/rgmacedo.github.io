@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## PhD theses
-**Pedro Peixoto.** *"Programmable I/O Systems"*. Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. Starting in 2024.    
+**Pedro Peixoto.** *"Software-Defined Resource Disaggregation for Large-Scale HPC Infrastructures"*. Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. Starting in 2024.    
 **Rúben Adão.** *"Heterogeneous Storage Management in Modern I/O Infrastructures"*. Co-advised with Oana Balmau and João Paulo. Doctoral Programme in Informatics, U. Minho. 2024. *(Ongoing)*    
 
 ## MSc theses
@@ -14,7 +14,7 @@ author_profile: true
 **Guilherme Fernandes.** *"Programmable and Adaptable User-level Storage Systems"*. Co-advised with João Paulo. U. Minho, 2023. *(Ongoing)*    
 **José Pedro Fernandes.** *"Comprehensive Study of the Energy Impact of Key-value Stores"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2023. *(Ongoing)*    
 **Mariana Amorim.** *"Energy Control System for Disaggregated Storage Resources"*. Co-advised with Cláudia Brito and João Paulo. U. Minho, 2023. *(Ongoing)*    
-**Sara Pereira.** *"Energy Control System for Large-scale Infrastructures"*. Co-advised with Carlos Baquero and Cláudia Brito. U. Minho, 2023. *(Ongoing)*    
+**Sara Pereira.** *"Towards Fine-grained, Holistic Energy Control in Large-Scale Computing Infrastructures"*. Co-advised with Carlos Baquero and Cláudia Brito. U. Minho, 2023. *(Ongoing)*    
 **Pedro Peixoto.** *"Programmable Caches with System-wide Visibility"*. Co-advised with João Paulo. U. Minho, 2022-2024. *(Ongoing)*    
 
 <!-- **Alberto Faria.** *"Software-Defined Storage Control for Containerized HPC Applications"*. Co-advised with João Paulo and António Sousa. 2020. *(Ongoing)*     -->

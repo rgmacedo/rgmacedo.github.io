@@ -4,6 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024 
+**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
+Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ricardo Macedo**, João Paulo.    
+*Proceedings of the VLDB Endowment, 2024 (just accepted).*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Github DIO -->
+<a href="https://github.com/dsrhaslab/lazyfs">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Flazyfs-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
 
 ## 2023 
 **Toward a practical and timely diagnosis of applications' I/O behavior**    
