@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+## CENTRA: Performance and Sustainability Management in Modern Data Centers
+**Coordinator**    
+2024 -- Present    
+Research on designing new building block fitted for the performance and sustainability requirements of modern, large-scale infrastructures.    
+**Partners:** INESC TEC, AIST, FIU.
+
 ## BigHPC: A Management Framework for Consolidated Big Data and HPC
 **Researcher**    
 2020 -- 2023    

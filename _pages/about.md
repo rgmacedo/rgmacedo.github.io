@@ -16,11 +16,10 @@ My current focus is on **storage** and **operating systems**, with an emphasis o
 
 Recent News [(all)](https://rgmacedo.github.io/news/)
 ===
+**Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
+**Oct 2023** Our paper *"Toward a practical and timely diagnosis of applications' I/O behavior"* was accepted at the [IEEE Access](https://ieeeaccess.ieee.org/) journal.    
 **Feb 2023** Our paper *"Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control"* was accepted at [IEEE/ACM CCGrid 2023](https://ccgrid2023.iisc.ac.in/).    
-**Jan 2023** I successfully defended my PhD!         
-**Feb 2022** Our paper *"Accelerating Deep Learning Training Through Transparent Storage Tiering"* was accepted at [ACM/IEEE CCGrid 2022](https://fcrlab.unime.it/ccgrid22/).     
-**Jan 2022** Our paper *"PAIO: General, Portable I/O Optimizations With Minor Application Modifications"* was accepted at [USENIX FAST 2022](https://www.usenix.org/conference/fast22/).    
-**Dec 2021** The [PAStor project](https://pastor-project.github.io/) has come to an end.       
+**Jan 2023** I successfully defended my PhD!              
 
 ***
 

@@ -18,3 +18,8 @@ author_profile: true
 **PhD Grant (SFRH/BD/146059/2019).** Fundação para a Ciência e a Tecnologia, Portugal. 2019.
 
 **Excellence Scholarship.** Universidade do Minho, Portugal. 2018.
+
+
+## Awards won by students
+
+**PhD grant - Rúben Adão.** Fundação para a Ciência e a Tecnologia, Portugal. 2024.
