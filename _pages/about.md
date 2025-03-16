@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am an **Assistant Researcher** at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
-My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern large-scale I/O infrastructures, namely cloud and HPC datacenters.
+My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern large-scale infrastructures, namely cloud and HPC datacenters.
 
 ***
 
@@ -23,7 +23,7 @@ Recent News [(all)](https://rgmacedo.github.io/news/)
 
 ***
 
-
+<!-- 
 Education
 ===
 **Ph.D --- MAP-i Doctoral Program in Computer Science**    
@@ -38,9 +38,9 @@ Supervised by [Prof. João Paulo](https://jtpaulo.github.io/) and [Prof. Rui Oli
 University of Minho.    
 2011 --- 2017
 
-***
+*** -->
 
-Experience
+<!-- Experience
 ===
 **Assistant Researcher, HASLab INESC TEC.**    
 Research in storage and operating systems for modern, large-scale I/O infrastructures.   
@@ -59,10 +59,25 @@ Research and development a Software-Defined Storage data plane for ensuring dyna
 Research in secure computation in NoSQL and SQL databases to provide flexible performance and security over cloud-based databases systems.    
 2016 --- 2017
 
-***
+*** -->
 
-Selected Publications [(all)](https://rgmacedo.github.io/publications/)
+Recent selected publications
 ===
+
+ *When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection*    
+Proceedings of the VLDB Endowment, Vol. 17, 11. 2024.    
+<!-- PDF -->
+<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  </a>
+<!-- Bibtex -->
+<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/lazyfs">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Flazyfs-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
 
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
 *Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control.*    
@@ -80,8 +95,8 @@ Selected Publications [(all)](https://rgmacedo.github.io/publications/)
     <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
 *PAIO: General, Portable I/O Optimizations With Minor Application Modifications.*    
+Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
 20th USENIX Conference on File and Storage Technologies (USENIX FAST 22), 2022.    
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
@@ -99,19 +114,5 @@ Selected Publications [(all)](https://rgmacedo.github.io/publications/)
 <a href="https://github.com/dsrhaslab/paio">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
-
-
-**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani. 
-*A Survey and Classification of Software-Defined Storage Systems.*    
-ACM Computing Surveys, 2020.   
-<!-- PDF -->
-<a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
-    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-  </a>
-<!-- Bibtex -->
-<a href="https://rgmacedo.github.io/files/2020/csur20-sds-survey/bibtex.bib">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
-</a>
-
 
 ***
