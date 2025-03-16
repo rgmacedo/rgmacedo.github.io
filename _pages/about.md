@@ -14,13 +14,11 @@ My current focus is on **storage** and **operating systems**, with an emphasis o
 
 ***
 
-Recent News [(all)](https://rgmacedo.github.io/news/)
+Recent news
 ===
+**Nov 2024** We have two new projects starting in 2025.     
+**Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
 **Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
-**Oct 2023** Our paper *"Toward a practical and timely diagnosis of applications' I/O behavior"* was accepted at the [IEEE Access](https://ieeeaccess.ieee.org/) journal.    
-**Feb 2023** Our paper *"Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control"* was accepted at [IEEE/ACM CCGrid 2023](https://ccgrid2023.iisc.ac.in/).    
-**Jan 2023** I successfully defended my PhD!              
-
 ***
 
 <!-- 
@@ -64,24 +62,21 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Recent selected publications
 ===
 
- *When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection*    
-Proceedings of the VLDB Endowment, Vol. 17, 11. 2024.    
+**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
+Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo.    
+*Proceedings of the VLDB Endowment, Vol. 17, 11.* 2024.    
 <!-- PDF -->
-<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
+<a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-  </a>
-<!-- Bibtex -->
-<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
 </a>
 <!-- Github -->
 <a href="https://github.com/dsrhaslab/lazyfs">
     <img src="https://img.shields.io/badge/dsrhaslab%2Flazyfs-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
-*Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control.*    
-23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (IEEE/ACM CCGrid 23), 2023.    
+**Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control.**    
+Ricardo Macedo, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
+*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (IEEE/ACM CCGrid 23)*. 2023.    
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2302.06418">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
@@ -90,29 +85,24 @@ Proceedings of the VLDB Endowment, Vol. 17, 11. 2024.
 <a href="https://github.com/dsrhaslab/padll">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpadll-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
-<!-- Github Cheferd-->
-<a href="https://github.com/dsrhaslab/cheferd">
-    <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
-</a>
 
-*PAIO: General, Portable I/O Optimizations With Minor Application Modifications.*    
+**PAIO: General, Portable I/O Optimizations With Minor Application Modifications.**    
 Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
-20th USENIX Conference on File and Storage Technologies (USENIX FAST 22), 2022.    
+*20th USENIX Conference on File and Storage Technologies (USENIX FAST 22)*. 2022.    
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
   </a>
-<!-- Bibtex -->
-<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
-  <img src="https://img.shields.io/badge/bibtex-5e5b5c?style=plastic&logo=dblp&logoColor=white" />
-</a>
-<!-- ArXiv version -->
-<a href="https://arxiv.org/abs/2106.03617">
-    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
-</a>
 <!-- Github -->
 <a href="https://github.com/dsrhaslab/paio">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
+**A Survey and Classification of Software-Defined Storage Systems**   
+Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani.   
+*ACM Computing Surveys 53, 3 (48), 2020*   
+<!-- PDF -->
+<a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
 ***
