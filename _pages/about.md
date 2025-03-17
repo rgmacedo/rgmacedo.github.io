@@ -97,7 +97,7 @@ Selected publications
 Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani.   
 *ACM Computing Surveys 53, 3 (48), 2020*   
 <!-- PDF -->
-<a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
+<!-- <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a> -->
 
@@ -110,5 +110,6 @@ Ongoing Projects
 Co-Principal Investigator. *INESC TEC, NARLabs.* 
 
 **CDMS: Claim Denial Management Solution.**    
-Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.* COMPETE2030-FEDER-01193000/17409.
+Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.*    
+COMPETE2030-FEDER-01193000/17409.
 
