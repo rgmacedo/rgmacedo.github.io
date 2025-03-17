@@ -5,11 +5,44 @@ permalink: /projects/
 author_profile: true
 ---
 
-## CENTRA: Performance and Sustainability Management in Modern Data Centers
+## DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
+**Co-coordinator**    
+2025 -- Present    
+Research on designing a software-managed resource disaggregation framework for large-scale HPC infrastructures.    
+**Partners:** INESC TEC, NARLabs.
+
+
+## CDMS: Claim Denial Management Solution
+**Local coordinator**    
+2025 -- Present    
+Research in new storage and operating system building blocks for improving the performance and energy efficiency of LLM training in HPC infrastructures.    
+**Partners:** GetEffy, RandyLabs, INESC TEC, CUF.    
+**Project reference:** COMPETE2030-FEDER-01193000/17409
+
+
+## PASM-CENTRA: Performance and Sustainability Management in Modern Data Centers
 **Coordinator**    
 2024 -- Present    
 Research on designing new building block fitted for the performance and sustainability requirements of modern, large-scale infrastructures.    
 **Partners:** INESC TEC, AIST, FIU.
+
+
+## BDC.S+M: Modular Blockchain Data Storage and Management System with AI
+**Researcher**    
+2024 -- Present    
+Research in multi-backend storage systems and techniques for distributed storage, focusing
+on the performance and efficient usage of compute resources.    
+**Partners:** INESC TEC, InvisibleLab.    
+**Project reference:** NORTE2030-FEDER-00584600/14436
+
+
+## SustainableHPC: Computação de elevado desempenho sustentável
+**Researcher**    
+2021 -- Present    
+Research in new energy management systems for improving the energy efficiency of large
+scale HPC infrastructures.    
+**Partners:** INESC TEC, INEGI.
+
 
 ## BigHPC: A Management Framework for Consolidated Big Data and HPC
 **Researcher**    

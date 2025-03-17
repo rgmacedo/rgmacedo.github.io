@@ -19,6 +19,7 @@ Recent news
 **Nov 2024** We have two new projects starting in 2025.     
 **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
 **Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
+
 ***
 
 <!-- 
@@ -59,12 +60,10 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 *** -->
 
-Recent selected publications
+Selected publications
 ===
 
-**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
-Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo.    
-*Proceedings of the VLDB Endowment, Vol. 17, 11.* 2024.    
+**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection.** Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo. *Proceedings of the VLDB Endowment, Vol. 17, 11.* 2024.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -74,9 +73,7 @@ Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Rica
     <img src="https://img.shields.io/badge/dsrhaslab%2Flazyfs-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control.**    
-Ricardo Macedo, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
-*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (IEEE/ACM CCGrid 23)*. 2023.    
+**Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control.** Ricardo Macedo, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo. *23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (IEEE/ACM CCGrid 23)*. 2023.    
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2302.06418">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
@@ -86,9 +83,7 @@ Ricardo Macedo, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Steph
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpadll-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**PAIO: General, Portable I/O Optimizations With Minor Application Modifications.**    
-Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. 
-*20th USENIX Conference on File and Storage Technologies (USENIX FAST 22)*. 2022.    
+**PAIO: General, Portable I/O Optimizations With Minor Application Modifications.** Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. *20th USENIX Conference on File and Storage Technologies (USENIX FAST 22)*. 2022.    
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -98,11 +93,22 @@ Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, J
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**A Survey and Classification of Software-Defined Storage Systems**   
+<!-- **A Survey and Classification of Software-Defined Storage Systems**   
 Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani.   
 *ACM Computing Surveys 53, 3 (48), 2020*   
 <!-- PDF -->
 <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a>
+</a> -->
+
 ***
+
+Ongoing Projects
+===
+
+**DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures.**    
+Co-Principal Investigator. *INESC TEC, NARLabs.* 
+
+**CDMS: Claim Denial Management Solution.**    
+Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.* COMPETE2030-FEDER-01193000/17409.
+

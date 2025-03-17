@@ -5,16 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024 
+**Can Current SDS Controllers Scale to Modern HPC Infrastructures?**     
+Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, **Ricardo Macedo**, José Pereira, João Paulo.    
+*International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops, 2024*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2024/sc24w-cheferd/sc24w-cheferd-miranda.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Github Cheferd -->
+<a href="https://github.com/dsrhaslab/cheferd">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.1109/SCW63240.2024.0012">
+  <img src="https://img.shields.io/badge/doi-10.1109/SCW63240.2024.0012-lightgrey?style=plastic" />
+</a>
+
+
 **When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
 Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ricardo Macedo**, João Paulo.    
 *Proceedings of the VLDB Endowment, 17 (11), 2024.*    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io">
+<a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
 <!-- Github DIO -->
 <a href="https://github.com/dsrhaslab/lazyfs">
     <img src="https://img.shields.io/badge/dsrhaslab%2Flazyfs-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.14778/3681954.3681980">
+  <img src="https://img.shields.io/badge/doi-10.14778/3681954.3681980-lightgrey?style=plastic" />
 </a>
 
 

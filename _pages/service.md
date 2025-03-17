@@ -23,6 +23,7 @@ author_profile: true
 ## Journal
 
 ### 2024 
+* ACM Transactions on Architecture and Code Optimization
 * Journal of Supercomputing
 
 ### 2023
