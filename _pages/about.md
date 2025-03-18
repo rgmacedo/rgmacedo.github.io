@@ -24,6 +24,7 @@ Recent news
 **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
 **Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
 Older news can be found [here](https://rgmacedo.github.io/news/).
+
 ***
 
 <!-- 
@@ -104,6 +105,7 @@ Selected publications
 </a>
 
 Full list of publications can be found [here](https://rgmacedo.github.io/publications/).
+
 ***
 
 Ongoing Projects
