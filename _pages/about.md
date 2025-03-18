@@ -9,8 +9,12 @@ redirect_from:
 ---
 
 
-I am an **Assistant Researcher** at [INESC TEC](https://www.inesctec.pt/en) ([DSR HASLab](https://dsr-haslab.github.io/) group) and an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
-My current focus is on **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the performance, reliability, and energy consumption requirements of modern large-scale infrastructures, namely cloud and HPC datacenters.
+I am an **Assistant Researcher** at [INESC TEC](https://www.inesctec.pt/en) in the [Distributed Storage Research](https://dsr-haslab.github.io/) team. 
+I am also an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
+
+My current research work lies in the areas of **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the *performance*, *reliability*, and *sustainability* requirements of modern large-scale infrastructures, namely cloud and HPC datacenters.
+
+The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https://scholar.google.com/citations?user=3QPFbOcAAAAJ) and [DBLP](https://dblp.org/pid/159/9543.html).
 
 ***
 
@@ -93,13 +97,11 @@ Selected publications
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-<!-- **A Survey and Classification of Software-Defined Storage Systems**   
-Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani.   
-*ACM Computing Surveys 53, 3 (48), 2020*   
+**A Survey and Classification of Software-Defined Storage Systems** Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani. *ACM Computing Surveys 53, 3 (48), 2020*   
 <!-- PDF -->
-<!-- <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
+<a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a> -->
+</a>
 
 ***
 
@@ -107,7 +109,7 @@ Ongoing Projects
 ===
 
 **DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures.**    
-Co-Principal Investigator. *INESC TEC, NARLabs.* 
+Co-principal investigator. *INESC TEC, NARLabs.* 
 
 **CDMS: Claim Denial Management Solution.**    
 Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.*    
