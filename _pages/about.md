@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-I am an **Assistant Researcher** at [INESC TEC](https://www.inesctec.pt/en) in the [Distributed Storage Research](https://dsr-haslab.github.io/) team. 
+I am an **Assistant Researcher** at [INESC TEC](https://www.inesctec.pt/en) in the [Distributed Storage Research (DSR)](https://dsr-haslab.github.io/) team. 
 I am also an Invited Assistant Professor at [University of Minho](https://www.uminho.pt/EN).
 
-My current research work lies in the areas of **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the *performance*, *reliability*, and *sustainability* requirements of modern large-scale infrastructures, namely cloud and HPC datacenters.
+My current research work lies in the areas of **storage** and **operating systems**, with an emphasis on designing new building blocks fitted for the *performance*, *reliability*, and *sustainability* requirements of modern large-scale infrastructures, namely cloud computing datacenters and HPC supercomputers.
 
 The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https://scholar.google.com/citations?user=3QPFbOcAAAAJ) and [DBLP](https://dblp.org/pid/159/9543.html).
 
@@ -23,7 +23,7 @@ Recent news
 **Nov 2024** We have two new projects starting in 2025.     
 **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
 **Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
-
+Older news can be found [here](https://rgmacedo.github.io/news/).
 ***
 
 <!-- 
@@ -103,6 +103,7 @@ Selected publications
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
 
+Full list of publications can be found [here](https://rgmacedo.github.io/publications/).
 ***
 
 Ongoing Projects
@@ -115,3 +116,4 @@ Co-principal investigator. *INESC TEC, NARLabs.*
 Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.*    
 COMPETE2030-FEDER-01193000/17409.
 
+More information about projects [here](https://rgmacedo.github.io/projects/).
