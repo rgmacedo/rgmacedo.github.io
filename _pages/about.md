@@ -98,7 +98,7 @@ Selected publications
     <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**A Survey and Classification of Software-Defined Storage Systems** Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani. *ACM Computing Surveys 53, 3 (48), 2020*   
+**A Survey and Classification of Software-Defined Storage Systems** Ricardo Macedo, João Paulo, José Pereira, Alysson Bessani. *ACM Computing Surveys 53, 3 (48).* 2020.    
 <!-- PDF -->
 <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />

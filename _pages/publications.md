@@ -24,7 +24,7 @@ Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell,
 
 **When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
 Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ricardo Macedo**, João Paulo.    
-*Proceedings of the VLDB Endowment, 17 (11), 2024.*    
+*Proceedings of the VLDB Endowment, 17 (11), 2024*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -42,7 +42,7 @@ Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ric
 ## 2023 
 **Toward a practical and timely diagnosis of applications' I/O behavior**    
 Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
-*IEEE Access (11), 2023.*    
+*IEEE Access (11), 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/access23-dio/dio-access-esteves.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -59,7 +59,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Diagnosing applications' I/O behavior through system call observability**    
 Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
-*IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023.*    
+*IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/dsnw23-dio/dio-dsnw-esteves.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -81,7 +81,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
-*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2023.*    
+*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/padll-ccgrid23-rgmacedo.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -110,7 +110,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **User-level Software-Defined Storage Data Planes**    
 **Ricardo Macedo**.    
-*PhD thesis, Universities of Minho, Aveiro, and Porto, 2023.*    
+*PhD thesis, Universities of Minho, Aveiro, and Porto, 2023*    
  Supervised by [João Paulo](https://jtpaulo.github.io/) and [José Pereira](https://haslab.uminho.pt/jop).    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/phd-thesis/rgmacedo-phd-thesis.pdf">
@@ -130,7 +130,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Protecting Metadata Servers From Harm Through Application-level I/O Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, João Paulo.    
-*IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022.*    
+*IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/rexio22-padll/padll-rexio22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -155,7 +155,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Accelerating Deep Learning Training Through Transparent Storage Tiering**    
 Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
-*22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022.*    
+*22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/ccgrid2022-monarch/dantas-ccgrid22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
