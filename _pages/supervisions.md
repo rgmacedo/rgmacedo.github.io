@@ -14,16 +14,15 @@ author_profile: true
 **Alexandre Fernandes.** *"Energy monitoring system for large-scale infrastructures"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2024. *(Ongoing)*    
 **Carlos Machado.** *"An NVMe-oriented I/O scheduler for reducing energy consumption"*. Co-advised with Cláudia Brito and João Paulo. U. Minho, 2024. *(Ongoing)*    
 **Miguel Braga.** *"GPU energy control for Large Language Models"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2024. *(Ongoing)*    
-**Diana Rodrigues.** *"GPU Energy Control for Deep Learning Systems"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2023. *(Ongoing)*    
-**Guilherme Fernandes.** *"Programmable and Adaptable User-level Storage Systems"*. Co-advised with João Paulo. U. Minho, 2023. *(Ongoing)*    
-**José Pedro Fernandes.** *"Comprehensive Study of the Energy Impact of Key-value Stores"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2023. *(Ongoing)*    
-**Mariana Amorim.** *"Energy Control Engine for SPDK-based Storage Systems"*. Co-advised with Cláudia Brito and João Paulo. U. Minho, 2023. *(Ongoing)*    
+**Guilherme Fernandes.** *"Programmable and Adaptable User-level Storage Systems"*. Co-advised with João Paulo. U. Minho, 2023. *(Ongoing)*      
 
     
-
 <!-- **Alberto Faria.** *"Software-Defined Storage Control for Containerized HPC Applications"*. Co-advised with João Paulo and António Sousa. 2020. *(Ongoing)*     -->
 
 ***
+**Diana Rodrigues.** *"GPU Energy Control for Deep Learning Systems"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2023-2025.    
+**Mariana Amorim.** *"Energy Control Engine for SPDK-based Storage Systems"*. Co-advised with Cláudia Brito and João Paulo. U. Minho, 2023-2025.    
+**José Pedro Fernandes.** *"Comprehensive Study of the Energy Impact of Key-value Stores"*. Co-advised with Cláudia Brito and António Sousa. U. Minho, 2023-2025.    
 **Sara Pereira.** *"Towards Fine-grained, Holistic Energy Control in Large-Scale Computing Infrastructures"*. Co-advised with Carlos Baquero and Cláudia Brito. FEUP, U. Porto, 2023-2024.    
 **Maria Ramos.** *"Reproducible Fault Injection in Local Storage Systems"*. Co-advised with João Paulo and Tânia Esteves. U. Minho, 2022-2024.    
 **Pedro Peixoto.** *"Towards Programmable and Adaptable Caches"*. Co-advised with João Paulo. U. Minho, 2022-2024.    
@@ -40,7 +39,8 @@ author_profile: true
 ***
 
 ## Research mentorship
-**Rahma Nouaji.** I/O optimizations for Large Language Models (2024 - )    
+**Alexis Gonzalez.**  Rethinking storage systems for emerging I/O devices (2025)    
+**Rahma Nouaji.** I/O optimizations for Large Language Models (2024)    
 **Diana Rodrigues, José Pedro Fernandes, Mariana Amorim, and Sara Pereira.** Monitoring energy consumption with fine-granularity in data-centric applications (2023 - 2024)     
 **Francisco Neves and Guilherme Fernandes.** Metadata trace replayer for large-scale HPC file systems (2023 - 2024)     
 **Maria Beatriz Moreira and Pedro Peixoto.** Programmable and adaptable storage data planes for data transformations (2021 - 2022)     

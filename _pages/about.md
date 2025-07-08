@@ -20,6 +20,7 @@ The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https:
 
 Recent news
 ===
+**May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/)! Congratulations to the team!     
 **Nov 2024** We have two new projects starting in 2025.     
 **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
 **Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
@@ -67,8 +68,21 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 Selected publications
 ===
+**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, 18 (9). 2025*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2506.14630">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+<!-- Github DIO -->
+<a href="https://github.com/dsrhaslab/keigo">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fkeigo-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
 
-**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection.** Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo. *Proceedings of the VLDB Endowment, Vol. 17, 11.* 2024.    
+**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection.** Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo. *Proceedings of the VLDB Endowment, Vol. 17 (11).* 2024.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />

@@ -4,6 +4,27 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**    
+Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Macedo**.    
+*Proceedings of the VLDB Endowment, 18 (9), 2025*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2506.14630">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/keigo">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fkeigo-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+<!-- Doi -->
+<a href="https://doi.org/10.14778/3746405.3746414">
+  <img src="https://img.shields.io/badge/doi-10.14778/3746405.3746414-lightgrey?style=plastic" />
+</a>
+
 ## 2024 
 **Can Current SDS Controllers Scale to Modern HPC Infrastructures?**     
 Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, **Ricardo Macedo**, José Pereira, João Paulo.    
@@ -17,8 +38,8 @@ Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell,
     <img src="https://img.shields.io/badge/dsrhaslab%2Fcheferd-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 <!-- Doi -->
-<a href="https://doi.org/10.1109/SCW63240.2024.0012">
-  <img src="https://img.shields.io/badge/doi-10.1109/SCW63240.2024.0012-lightgrey?style=plastic" />
+<a href="https://dl.acm.org/doi/10.1109/SCW63240.2024.00123">
+  <img src="https://img.shields.io/badge/doi-10.1109/SCW63240.2024.0012-lightgrey?style=plastic"/>
 </a>
 
 

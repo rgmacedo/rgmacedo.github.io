@@ -4,6 +4,11 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/), in collaboration with [Oana Balmau](https://sites.google.com/view/oanabalmau) (and students) from McGill University! Congratulations to the team!
+* **Feb 2025** I will give a **talk** on improving AI training energy efficiency at [CENTRA 8](https://www.globalcentra.org/centra8/)!
+* **Nov 2024** We have two new projects starting in 2025.
+* **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!
+* **Jul 2024** I will give a **talk** about software-defined storage systems for HPC storage at [SIGHPC Computing Continuum](https://sighpc-continuum.acm.org/).
 * **Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* led by Maria Ramos and João Azevedo, and made in collaboration with [Jepsen](https://jepsen.io/) (Kyle Kingsbury), was accepted at [VLDB 2024](https://vldb.org/2024/)!    
 * **Oct 2023** Our paper *"Toward a practical and timely diagnosis of applications’ I/O behavior"* led by Tânia Esteves was accepted at the [IEEE Access](https://ieeeaccess.ieee.org/) journal.
 * **Jun 2023** Our paper *"Diagnosing applications’ I/O behavior through system call observability"* led by Tânia Esteves was accepted at [DCDS Workshop](http://dcds.lasige.di.fc.ul.pt/), co-located with [IEEE/IFIP International Conference on Dependable Systems and Networks](https://dsn2023.dei.uc.pt/).
