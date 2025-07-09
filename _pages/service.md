@@ -7,7 +7,7 @@ author_profile: true
 
 ## Program Committee Member
 ### 2025
-* 1st Workshop on Reliable Large-scale Data Management ([W-RLDM 2025](https://rldm.invisiblelab.dev/index.html))
+* 1st Workshop on Reliable Large-scale Data Management, co-located with IEEE SRDS ([W-RLDM 2025](https://rldm.invisiblelab.dev/index.html))
 * 5th Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2025](https://sites.google.com/view/rexio/))
 * 6th Workshop on Extreme-Scale Storage and Analysis, co-located with IEEE IPDPS ([ESSA 2025](https://sites.google.com/view/essa-2025/home))
 * 37th International Conference on Scalable Scientific Data Management ([SSDBM 2025](https://ssdbm.org/2025/index))
@@ -57,5 +57,5 @@ author_profile: true
 ***
 
 ## Organization
-* 10th International Parallel Data Systems Workshop | Reproducibility chair ([PDSW 2025](https://pdsw.org/index.shtml))
+* 10th International Parallel Data Systems Workshop -- Reproducibility chair ([PDSW 2025](https://pdsw.org/index.shtml))
 * ACM European Conference on Computer Systems ([EuroSys 2018](https://eurosys2018.org/))
