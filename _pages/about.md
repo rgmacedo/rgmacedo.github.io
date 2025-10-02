@@ -69,15 +69,13 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 Selected publications
 ===
-**MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
-Rahma Nouaji, Stella Bitchebe, Ricardo Macedo, Oana Balmau.    
-*21st European Conference on Computer Systems, 2026*    
+**MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing.** Rahma Nouaji, Stella Bitchebe, Ricardo Macedo, Oana Balmau. *21st European Conference on Computer Systems (EuroSys).* 2026.    
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2509.10712">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
 
-**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, 18 (9). 2025*    
+**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment (VLDB), 18 (9).* 2025.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -91,7 +89,7 @@ Rahma Nouaji, Stella Bitchebe, Ricardo Macedo, Oana Balmau.
     <img src="https://img.shields.io/badge/dsrhaslab%2Fkeigo-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection.** Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo. *Proceedings of the VLDB Endowment, Vol. 17 (11).* 2024.    
+**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection.** Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo. *Proceedings of the VLDB Endowment (VLDB), Vol. 17 (11).* 2024.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -119,7 +117,7 @@ Ongoing Projects
 ===
 
 **DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures.**    
-Co-principal investigator. *INESC TEC, NARLabs.* 
+Co-principal investigator. *INESC TEC, NIAR.* 
 
 **CDMS: Claim Denial Management Solution.**    
 Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.*    
