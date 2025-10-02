@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+**MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
+Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.    
+*21st European Conference on Computer Systems, 2026*    
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2509.10712">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+
 ## 2025
 **Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**    
 Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Macedo**.    
@@ -24,6 +33,24 @@ Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Ma
 <a href="https://doi.org/10.14778/3746405.3746414">
   <img src="https://img.shields.io/badge/doi-10.14778/3746405.3746414-lightgrey?style=plastic" />
 </a>
+
+**Idiosyncrasies of Programmable Caching Engines**    
+José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**.    
+*IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2025/wrldm-cachelib/wrldm-cachelib-peixoto.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+
+
+**One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC**    
+André Ferreira, Gonçalo Sousa, Amit Ruhela, John Cazes, Janki Bhimani, Raju Rangaswami, **Ricardo Macedo**, Cláudia Brito, João Paulo.    
+*IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2025/wrldm-ddl-caching/wrldm-ddl-caching-ferreira.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+
 
 ## 2024 
 **Can Current SDS Controllers Scale to Modern HPC Infrastructures?**     

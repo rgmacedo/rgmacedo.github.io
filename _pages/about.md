@@ -20,6 +20,7 @@ The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https:
 
 Recent news
 ===
+**Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!     
 **May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/)! Congratulations to the team!     
 **Nov 2024** We have two new projects starting in 2025.     
 **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
@@ -68,6 +69,14 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 Selected publications
 ===
+**MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
+Rahma Nouaji, Stella Bitchebe, Ricardo Macedo, Oana Balmau.    
+*21st European Conference on Computer Systems, 2026*    
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2509.10712">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+</a>
+
 **Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, 18 (9). 2025*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">

@@ -9,7 +9,7 @@ author_profile: true
 **Co-coordinator**    
 2025 -- Present    
 Research on designing a software-managed resource disaggregation framework for large-scale HPC infrastructures.    
-**Partners:** INESC TEC, NARLabs.
+**Partners:** INESC TEC, NIAR.
 
 
 ## CDMS: Claim Denial Management Solution

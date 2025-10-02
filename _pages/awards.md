@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-**EU Innovation Radar.** Energy efficiency monitoring tool listed as a key innovation in EU innovation radar program, within the *"Testing framework for AI energy efficiency"*. European Comission. 2025.    
+**EU Innovation Radar.** Energy efficiency monitoring tool listed as a key innovation in EU innovation radar program, within the *"Testing framework for AI energy efficiency"*. European Commission. 2025.    
 
 **2023 Cor Baayen Early Career Researcher Award (Finalist).** Finalist of the Car Baayen early career research award, held by the European Consortium for Informatics and Mathematics (ERCIM). 2023.    
 
@@ -23,5 +23,6 @@ author_profile: true
 
 
 ## Awards won by students
-
+**PhD grant - José Pedro Peixoto.** Fundação para a Ciência e a Tecnologia, Portugal. 2025.    
+**Award - Diana Rodrigues.** OERN Masters Award, Ordem dos Engenheiros Região Norte, Portugal. 2024.    
 **PhD grant - Rúben Adão.** Fundação para a Ciência e a Tecnologia, Portugal. 2024.

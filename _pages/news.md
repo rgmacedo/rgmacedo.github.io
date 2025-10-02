@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!
+* **Aug 2025** We have two papers accepted at the Workshop on Reliable Large-scale Data Management, co-located with SRDS 2025!
 * **May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/), in collaboration with [Oana Balmau](https://sites.google.com/view/oanabalmau) (and students) from McGill University! Congratulations to the team!
 * **Feb 2025** I will give a **talk** on improving AI training energy efficiency at [CENTRA 8](https://www.globalcentra.org/centra8/)!
 * **Nov 2024** We have two new projects starting in 2025.
