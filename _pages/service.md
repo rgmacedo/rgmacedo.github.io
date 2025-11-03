@@ -10,6 +10,11 @@ author_profile: true
 ***
 
 ## Program Committee Member
+### 2026
+* 40th ACM International Conference on Supercomputing ([ACM ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/))
+* 17th ACM/SPEC International Conference on Performance Engineering ([ACM/SPEC ICPE 2026](https://icpe2026.spec.org/))
+* 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([IEEE CCGrid 2026](https://ccgrid2026.cdms.westernsydney.edu.au/))
+
 ### 2025
 * 1st Workshop on Reliable Large-scale Data Management, co-located with IEEE SRDS ([W-RLDM 2025](https://rldm.invisiblelab.dev/index.html))
 * 5th Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with IEEE Cluster ([REX-IO 2025](https://sites.google.com/view/rexio/))
