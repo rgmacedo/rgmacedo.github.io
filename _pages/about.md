@@ -20,6 +20,7 @@ The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https:
 
 Recent news
 ===
+**Jan 2026** Our paper *"Holpaca: Holistic and Adaptable Cache Management for Shared Environments"* was accepted at [ICPE 2026](https://icpe2026.spec.org/). Big congratulations to [Pedro Peixoto]() and the rest of the team!     
 **Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!     
 **May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/)! Congratulations to the team!     
 **Nov 2024** We have two new projects starting in 2025.     
@@ -75,6 +76,8 @@ Selected publications
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
 
+**ICPE'26 | Holpaca: Holistic and Adaptable Cache Management for Shared Environments.** José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, Ricardo Macedo. *17th ACM/SPEC International Conference on Performance Engineering (just accepted)*. 2026.    
+
 **VLDB'25 | Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, Vol. 18 (9).* 2025.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
@@ -97,16 +100,6 @@ Selected publications
 <!-- Github -->
 <a href="https://github.com/dsrhaslab/lazyfs">
     <img src="https://img.shields.io/badge/dsrhaslab%2Flazyfs-5e5b5c?style=plastic&logo=github&logoColor=white"/>
-</a>
-
-**FAST'22 | PAIO: General, Portable I/O Optimizations With Minor Application Modifications.** Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo. *20th USENIX Conference on File and Storage Technologies*. 2022.    
-<!-- PDF -->
-<a href="https://www.usenix.org/conference/fast22/presentation/macedo">
-    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-  </a>
-<!-- Github -->
-<a href="https://github.com/dsrhaslab/paio">
-    <img src="https://img.shields.io/badge/dsrhaslab%2Fpaio-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
 Full list of publications can be found [here](https://rgmacedo.github.io/publications/).

@@ -7,16 +7,21 @@ author_profile: true
 ## 2026
 **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
 Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.    
-*21st European Conference on Computer Systems, 2026*    
+*21st European Conference on Computer Systems (EuroSys), 2026*    
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2509.10712">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
 
+**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**    
+José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**.    
+*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026 (just accepted)*     
+
+
 ## 2025
 **Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**    
 Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Macedo**.    
-*Proceedings of the VLDB Endowment, 18 (9), 2025*    
+*Proceedings of the VLDB Endowment (VLDB), 18 (9), 2025*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -55,7 +60,7 @@ André Ferreira, Gonçalo Sousa, Amit Ruhela, John Cazes, Janki Bhimani, Raju Ra
 ## 2024 
 **Can Current SDS Controllers Scale to Modern HPC Infrastructures?**     
 Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, **Ricardo Macedo**, José Pereira, João Paulo.    
-*International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops, 2024*    
+*International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops (SC-W), 2024*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/sc24w-cheferd/sc24w-cheferd-miranda.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -72,7 +77,7 @@ Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell,
 
 **When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
 Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ricardo Macedo**, João Paulo.    
-*Proceedings of the VLDB Endowment, 17 (11), 2024*    
+*Proceedings of the VLDB Endowment (VLDB), 17 (11), 2024*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -129,7 +134,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
-*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2023*    
+*23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/padll-ccgrid23-rgmacedo.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -178,7 +183,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Protecting Metadata Servers From Harm Through Application-level I/O Control**    
 **Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, João Paulo.    
-*IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2022*    
+*IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2022*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/rexio22-padll/padll-rexio22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -203,7 +208,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 **Accelerating Deep Learning Training Through Transparent Storage Tiering**    
 Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
-*22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, 2022*    
+*22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2022*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/ccgrid2022-monarch/dantas-ccgrid22-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -228,7 +233,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 
 **PAIO: General, Portable I/O Optimizations With Minor Application Modifications**    
 **Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo.    
-*20th USENIX Conference on File and Storage Technologies, 2022*        
+*20th USENIX Conference on File and Storage Technologies (FAST), 2022*        
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -280,7 +285,7 @@ Alberto Faria, **Ricardo Macedo**, João Paulo.
 
 **The Case for Storage Optimization Decoupling in Deep Learning Frameworks**    
 **Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
-*IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021*    
+*IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2021*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -305,7 +310,7 @@ Alberto Faria, **Ricardo Macedo**, João Paulo.
 
 **Monarch: Hierarchical Storage Management for Deep Learning Frameworks**    
 Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, João Paulo.    
-*IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, 2021*    
+*IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2021*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-monarch/dantas-rexio21.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -338,7 +343,7 @@ Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, Jo
 
 **BDUS: Implementing Block Devices in User Space**    
 Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.    
-*14th ACM International System and Storage Conference, 2021*    
+*14th ACM International System and Storage Conference (SYSTOR), 2021*    
 Best paper runner-up.    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/systor21-bdus/bdus-paper.pdf">
@@ -433,7 +438,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 
 **A Practical Framework for Privacy-Preserving NoSQL Databases**   
 **Ricardo Macedo**, João Paulo, Rogério Pontes, Bernardo Portela, Tiago Oliveira, Miguel Matos, Rui Oliveira.   
-*36th International Symposium on Reliable Distributed Systems, 2017*   
+*36th International Symposium on Reliable Distributed Systems (SRDS), 2017*   
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2017/srds17-safenosql/rgmacedo-srds17-safenosql.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />

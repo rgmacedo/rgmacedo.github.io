@@ -14,6 +14,8 @@ author_profile: true
 * 40th ACM International Conference on Supercomputing ([ACM ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/))
 * 17th ACM/SPEC International Conference on Performance Engineering ([ACM/SPEC ICPE 2026](https://icpe2026.spec.org/))
 * 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([IEEE CCGrid 2026](https://ccgrid2026.cdms.westernsydney.edu.au/))
+* Workshop on Intelligent System Design, co-located with ACM EuroSys ([INSYDE 2026](https://sites.google.com/view/insyde-eurosys26))
+* 7th Workshop on Extreme-Scale Storage and Analysis, co-located with IEEE IPDPS ([ESSA 2026](https://sites.google.com/view/essa-2026))
 
 ### 2025
 * 1st Workshop on Reliable Large-scale Data Management, co-located with IEEE SRDS ([W-RLDM 2025](https://rldm.invisiblelab.dev/index.html))
