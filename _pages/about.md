@@ -77,6 +77,11 @@ Selected publications
 </a>
 
 **ICPE'26 | Holpaca: Holistic and Adaptable Cache Management for Shared Environments.** José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, Ricardo Macedo. *17th ACM/SPEC International Conference on Performance Engineering (just accepted)*. 2026.    
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/Holpaca">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
 
 **VLDB'25 | Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, Vol. 18 (9).* 2025.    
 <!-- PDF -->
