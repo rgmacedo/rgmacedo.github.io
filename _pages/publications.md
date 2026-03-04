@@ -15,8 +15,15 @@ Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.
 
 **Holpaca: Holistic and Adaptable Cache Management for Shared Environments**    
 José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**.    
-*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026 (just accepted)*     
-
+*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026 (just accepted)*    
+<!-- PDF -->
+<a href="https://icpe2026.spec.org/preprint/Holpaca_Holistic_and_Adaptable_Cache_Management_for_Shared.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a> 
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/Holpaca">
+    <img src="https://img.shields.io/badge/dsrhaslab%holpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
 
 ## 2025
 **Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**    

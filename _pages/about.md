@@ -77,11 +77,14 @@ Selected publications
 </a>
 
 **ICPE'26 | Holpaca: Holistic and Adaptable Cache Management for Shared Environments.** José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, Ricardo Macedo. *17th ACM/SPEC International Conference on Performance Engineering (just accepted)*. 2026.    
+<!-- PDF -->
+<a href="https://icpe2026.spec.org/preprint/Holpaca_Holistic_and_Adaptable_Cache_Management_for_Shared.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a> 
 <!-- Github -->
 <a href="https://github.com/dsrhaslab/Holpaca">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
-
 
 **VLDB'25 | Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, Vol. 18 (9).* 2025.    
 <!-- PDF -->
@@ -113,6 +116,8 @@ Full list of publications can be found [here](https://rgmacedo.github.io/publica
 
 Ongoing Projects
 ===
+**PATA: Power- and Thermal-aware Management for Energy-Efficient AI Training in HPC Infrastructures.**    
+Co-principal investigator. *INESC TEC, TACC/UT Austin.* 
 
 **DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures.**    
 Co-principal investigator. *INESC TEC, NIAR.* 

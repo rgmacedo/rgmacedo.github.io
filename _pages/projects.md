@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+## PATA: Power- and Thermal-aware Management for Energy-Efficient AI Training in HPC Infrastructures    
+**Co-coordinator**    
+2025 -- Present    
+Research on designing new techniques for power management in large-scale infrastructures.    
+**Partners:** INESC TEC, TACC/UT Austin.    
+
+
 ## DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
 **Co-coordinator**    
 2025 -- Present    
