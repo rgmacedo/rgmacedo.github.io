@@ -4,6 +4,10 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **Jan 2026** Our paper *"Holpaca: Holistic and Adaptable Cache Management for Shared Environments"* was accepted at [ICPE 2026](https://icpe2026.spec.org/). Big congratulations to José Pedro Peixoto and the rest of the team!
+
+***
+
 * **Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!
 * **Aug 2025** We have two papers accepted at the Workshop on Reliable Large-scale Data Management, co-located with SRDS 2025!
 * **May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/), in collaboration with [Oana Balmau](https://sites.google.com/view/oanabalmau) (and students) from McGill University! Congratulations to the team!

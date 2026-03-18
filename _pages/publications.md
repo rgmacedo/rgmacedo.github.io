@@ -19,10 +19,10 @@ José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia B
 <!-- PDF -->
 <a href="https://icpe2026.spec.org/preprint/Holpaca_Holistic_and_Adaptable_Cache_Management_for_Shared.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a> 
+</a>
 <!-- Github -->
-<a href="https://github.com/dsrhaslab/Holpaca">
-    <img src="https://img.shields.io/badge/dsrhaslab%holpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+<a href="https://github.com/dsrhaslab/keigo">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
 ## 2025
@@ -52,6 +52,10 @@ José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, 
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/wrldm-cachelib/wrldm-cachelib-peixoto.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- ArXiv version -->
+<a href="https://arxiv.org/abs/2603.14357">
+    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
 
 
