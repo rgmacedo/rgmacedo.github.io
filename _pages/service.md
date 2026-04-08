@@ -16,6 +16,7 @@ author_profile: true
 * 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([IEEE CCGrid 2026](https://ccgrid2026.cdms.westernsydney.edu.au/))
 * IEEE International Conference on Cluster Computing ([IEEE CLUSTER 2026](https://clustercomp.org/2026/))
 * 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing ([IEEE SBAC-PAD 2026](https://coco-arcos.github.io/sbac-pad2026/))
+* ACM International Symposium on High-Performance and Distributed Computing ([HPDC 2026](https://hpdc.sci.utah.edu/2026/calls-posters.html)), Poster track
 * 6th Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with ACM HPDC ([REX-IO 2026](https://sites.google.com/view/rexio/home))
 * Workshop on Intelligent System Design, co-located with ACM EuroSys ([INSYDE 2026](https://sites.google.com/view/insyde-eurosys26))
 * Sixth Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems, co-located with ACM EuroSys ([CHEOPS 2026](https://cheops-workshop.github.io/))
