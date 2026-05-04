@@ -71,16 +71,20 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 Selected publications
 ===
 **EuroSys'26 | MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing.** Rahma Nouaji, Stella Bitchebe, Ricardo Macedo, Oana Balmau. *21st European Conference on Computer Systems.* 2026.    
-<!-- ArXiv version -->
-<a href="https://arxiv.org/abs/2509.10712">
-    <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2026/eurosys-minatoloader/eurosys26-minatoloader.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Github -->
+<a href="https://github.com/Rahm-no/MinatoLoader">
+    <img src="https://img.shields.io/badge/rahmno%2FMinatoLoader-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
 **ICPE'26 | Holpaca: Holistic and Adaptable Cache Management for Shared Environments.** José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, Ricardo Macedo. *17th ACM/SPEC International Conference on Performance Engineering (just accepted)*. 2026.    
 <!-- PDF -->
-<a href="https://icpe2026.spec.org/preprint/Holpaca_Holistic_and_Adaptable_Cache_Management_for_Shared.pdf">
+<a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a> 
+</a>
 <!-- Github -->
 <a href="https://github.com/dsrhaslab/Holpaca">
     <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>

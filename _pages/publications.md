@@ -10,7 +10,7 @@ Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.
 *21st European Conference on Computer Systems (EuroSys), 2026*    
 **Best poster award.**    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2026/eurosys26-minatoloader/eurosys26-minatoloader.pdf">
+<a href="https://rgmacedo.github.io/files/2026/eurosys-minatoloader/eurosys26-minatoloader.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
 <!-- Doi -->
@@ -19,9 +19,8 @@ Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.
 </a>
 <!-- Github -->
 <a href="https://github.com/Rahm-no/MinatoLoader">
-    <img src="https://img.shields.io/badge/Rahm-no%2FMinatoLoader-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/rahmno%2FMinatoLoader-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
-
 <!-- ArXiv version -->
 <a href="https://arxiv.org/abs/2509.10712">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
@@ -31,7 +30,7 @@ Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.
 José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**.    
 *17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*    
 <!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2026/icpe26-holpaca/icpe26-holpaca.pdf">
+<a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
 </a>
 <!-- Doi -->
