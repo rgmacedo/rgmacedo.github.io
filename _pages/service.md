@@ -11,6 +11,7 @@ author_profile: true
 
 ## Program Committee Member
 ### 2026
+* 55th ACM International Conference on Parallel Processing ([ACM ICPP 2026](https://icpp2026.github.io/))
 * 40th ACM International Conference on Supercomputing ([ACM ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/))
 * 17th ACM/SPEC International Conference on Performance Engineering ([ACM/SPEC ICPE 2026](https://icpe2026.spec.org/))
 * 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([IEEE CCGrid 2026](https://ccgrid2026.cdms.westernsydney.edu.au/))

@@ -20,12 +20,12 @@ The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https:
 
 Recent news
 ===
+**May 2026** Our poster (related to the paper) *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* won one of the best poster awards! Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!     
 **Jan 2026** Our paper *"Holpaca: Holistic and Adaptable Cache Management for Shared Environments"* was accepted at [ICPE 2026](https://icpe2026.spec.org/). Big congratulations to [Pedro Peixoto]() and the rest of the team!     
 **Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!     
 **May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/)! Congratulations to the team!     
 **Nov 2024** We have two new projects starting in 2025.     
 **Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
-**Jul 2024** Our paper *"When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"* was accepted at [VLDB 2024](https://vldb.org/2024/)!    
 Older news can be found [here](https://rgmacedo.github.io/news/).
 
 ***

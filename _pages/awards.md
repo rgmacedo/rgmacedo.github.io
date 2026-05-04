@@ -7,6 +7,7 @@ author_profile: true
 
 ## As a researcher
 
+* **Best poster award.** The paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* won the best poster award at EuroSys 2026. 2026.    
 * **EU Innovation Radar.** Energy efficiency monitoring tool listed as a key innovation in EU innovation radar program, within the *"Testing framework for AI energy efficiency"*. European Commission. 2025.    
 * **2023 Cor Baayen Early Career Researcher Award (Finalist).** Finalist of the Car Baayen early career research award, held by the European Consortium for Informatics and Mathematics (ERCIM). 2023.    
 
