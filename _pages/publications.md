@@ -8,7 +8,7 @@ author_profile: true
 **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
 Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.    
 *21st European Conference on Computer Systems (EuroSys), 2026*    
-**Best poster award.**    
+<span style="color:#586ba4">**Best poster award.**</span>    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2026/eurosys-minatoloader/eurosys26-minatoloader.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -372,7 +372,7 @@ Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, Jo
 **BDUS: Implementing Block Devices in User Space**    
 Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.    
 *14th ACM International System and Storage Conference (SYSTOR), 2021*    
-Best paper runner-up.    
+<span style="color:#586ba4">**Best paper runner-up.**</span>    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/systor21-bdus/bdus-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
