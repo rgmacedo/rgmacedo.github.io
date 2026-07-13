@@ -5,7 +5,8 @@ permalink: /service/
 author_profile: true
 ---
 ## Organization
-* 10th International Parallel Data Systems Workshop -- Reproducibility chair ([PDSW 2025](https://pdsw.org/index.shtml))
+* 11th International Parallel Data Systems Workshop -- Reproducibility chair ([PDSW 2026](https://pdsw.org/index.shtml))
+* 10th International Parallel Data Systems Workshop -- Reproducibility chair ([PDSW 2025](https://www.pdsw.org/pdsw25/index.shtml))
 
 ***
 
@@ -17,6 +18,7 @@ author_profile: true
 * 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing ([IEEE CCGrid 2026](https://ccgrid2026.cdms.westernsydney.edu.au/))
 * IEEE International Conference on Cluster Computing ([IEEE CLUSTER 2026](https://clustercomp.org/2026/))
 * 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing ([IEEE SBAC-PAD 2026](https://coco-arcos.github.io/sbac-pad2026/))
+* IEEE International Conference on Cluster Computing ([IEEE CLUSTER 2026](https://clustercomp.org/2026/posters/)), Poster track
 * ACM International Symposium on High-Performance and Distributed Computing ([HPDC 2026](https://hpdc.sci.utah.edu/2026/calls-posters.html)), Poster track
 * 6th Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads, co-located with ACM HPDC ([REX-IO 2026](https://sites.google.com/view/rexio/home))
 * Workshop on Intelligent System Design, co-located with ACM EuroSys ([INSYDE 2026](https://sites.google.com/view/insyde-eurosys26))
@@ -45,6 +47,12 @@ author_profile: true
 ***
 
 ## Journal
+
+### 2026
+* Future Generation Compute Systems
+
+### 2025
+* ACM Transactions on Architecture and Code Optimization
 
 ### 2024 
 * ACM Transactions on Architecture and Code Optimization

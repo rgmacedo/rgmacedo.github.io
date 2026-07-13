@@ -5,18 +5,23 @@ permalink: /projects/
 author_profile: true
 ---
 
+## GenSEMICON: GENerative AI Chips and Software Engineering Stack: Integrating EU_Sovereign SEMICONductors and Edge Intelligence Systems    
+**Researcher**    
+Accepted    
+Research on designing power-aware techniques for improving AI training energy efficiency.    
+**Partners:** INESC TEC, MAG, DNV, ICCS, ETS, TUC, NTNU, UPB, and others.    
+
+## INOCULUM: Boosting the Immunity of Storage Systems Against Ransomware    
+**Researcher**    
+2026 -- Present    
+Research on designing new storage solutions for ensuring data resilience.    
+**Partners:** INESC TEC.    
+
 ## PATA: Power- and Thermal-aware Management for Energy-Efficient AI Training in HPC Infrastructures    
 **Co-coordinator**    
 2025 -- Present    
 Research on designing new techniques for power management in large-scale infrastructures.    
 **Partners:** INESC TEC, TACC/UT Austin.    
-
-
-## DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
-**Co-coordinator**    
-2025 -- Present    
-Research on designing a software-managed resource disaggregation framework for large-scale HPC infrastructures.    
-**Partners:** INESC TEC, NIAR.
 
 
 ## CDMS: Claim Denial Management Solution
@@ -25,6 +30,13 @@ Research on designing a software-managed resource disaggregation framework for l
 Research in new storage and operating system building blocks for improving the performance and energy efficiency of LLM training in HPC infrastructures.    
 **Partners:** GetEffy, RandyLabs, INESC TEC, CUF.    
 **Project reference:** COMPETE2030-FEDER-01193000/17409
+
+
+## DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
+**Co-coordinator**    
+2025 -- 2026    
+Research on designing a software-managed resource disaggregation framework for large-scale HPC infrastructures.    
+**Partners:** INESC TEC, NIAR.
 
 
 ## PASM-CENTRA: Performance and Sustainability Management in Modern Data Centers

@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## PhD theses
-**Rahma Nouaji** *"Systems Optimizations for Machine Learning"*. Co-advised with Oana Balmau. Doctoral Program in Computer Science, McGill University. 2024. *(Ongoing)*    
+**André Ferreira.** *"Improving Quality-of-Service and Performance for HPC Storage of Exascale Supercomputers."* Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. 2026. *(Ongoing)*    
+**Fábio Souza.** *"Hybrid Data Processing and Storage across Cloud and HPC Environments."* Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. 2025. *(Ongoing)*    
+**Rahma Nouaji.** *"Systems Optimizations for Machine Learning"*. Co-advised with Oana Balmau. Doctoral Program in Computer Science, McGill University. 2024. *(Ongoing)*    
 **José Pedro Peixoto.** *"Software-Managed Resource Disaggregation for Large-Scale HPC Infrastructures"*. Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. 2024. *(Ongoing)*    
 **Rúben Adão.** *"Heterogeneous Storage Management in Modern I/O Infrastructures"*. Co-advised with Oana Balmau and João Paulo. Doctoral Programme in Informatics, U. Minho. 2024. *(Ongoing)*    
 
@@ -15,10 +17,10 @@ author_profile: true
 **Duarte Ribeiro.** *"Strict durability in LSM-based key-value stores"*. U. Minho, 2025. *(Ongoing)*    
 **Júlio Pinto.** *"Energy control system for large-scale AI training"*. U. Minho, 2025. *(Ongoing)*    
 **Rui Lopes.** *"Generalized storage tiering strategies"*. Co-advised with Miguel Matos (IST Lisboa). U. Minho, 2025. *(Ongoing)*    
-**Carlos Machado.** *"An NVMe-oriented I/O scheduler for reducing energy consumption"*. Co-advised with Cláudia Brito and João Paulo. U. Minho, 2024. *(Ongoing)*    
-**Guilherme Fernandes.** *"Programmable and Adaptable User-level Storage Systems"*. Co-advised with João Paulo. U. Minho, 2023. *(Ongoing)*      
+**Carlos Machado.** *"An NVMe-oriented I/O scheduler for reducing energy consumption"*. Co-advised with Cláudia Brito. U. Minho, 2024. *(Ongoing)*    
 
-    
+
+<!-- **Guilherme Fernandes.** *"Programmable and Adaptable User-level Storage Systems"*. Co-advised with João Paulo. U. Minho, 2023. *(Ongoing)*       -->
 <!-- **Alberto Faria.** *"Software-Defined Storage Control for Containerized HPC Applications"*. Co-advised with João Paulo and António Sousa. 2020. *(Ongoing)*     -->
 
 ***

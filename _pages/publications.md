@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
+**Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**    
+Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, **Ricardo Macedo**, Janki Bhimani.    
+*ACM Transactions on Architecture and Code Optimization (ACM TACO), 2026 (just accepted)*    
+<!-- Doi -->
+<a href="https://dl.acm.org/doi/10.1145/3830082">
+  <img src="https://img.shields.io/badge/doi-10.1145/3830082-lightgrey?style=plastic" />
+</a>
+
 **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
 Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.    
 *21st European Conference on Computer Systems (EuroSys), 2026*    
