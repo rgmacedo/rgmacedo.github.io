@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## PhD theses
+**Alexandre Fernandes.** *"Optimizing the Energy Efficiency of Modern Data Centers."* Co-advised with Cláudia Brito. Doctoral Programme in Informatics, U. Minho. *Starting in 2027.*        
+**Daniel Pereira.** *"Rethinking Data Management Systems for the Modern Era."* Doctoral Programme in Informatics, U. Minho. *Starting in 2027.*        
 **André Ferreira.** *"Improving Quality-of-Service and Performance for HPC Storage of Exascale Supercomputers."* Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. 2026. *(Ongoing)*    
 **Fábio Souza.** *"Hybrid Data Processing and Storage across Cloud and HPC Environments."* Co-advised with João Paulo. Doctoral Programme in Informatics, U. Minho. 2025. *(Ongoing)*    
 **Rahma Nouaji.** *"Systems Optimizations for Machine Learning"*. Co-advised with Oana Balmau. Doctoral Program in Computer Science, McGill University. 2024. *(Ongoing)*    

@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **Sep 2026** Our paper *"Watts Behind the Weights: Characterizing Energy Consumption of the AI Training Lifecycle in HPC"* was accepted at the [AI on HPC](https://ai-on-hpc.github.io/sc26/) workshop, co-located with [Supercomputing 2026](https://sc26.supercomputing.org/)! Big congratulations to the students (Alexandre Fernandes, Alícia Oliveira, Beatriz Cepa) who led this work!     
+* **Aug 2026** We have two new HPC papers! *"A Tale of Scale: Enabling Scalable and Holistic Storage QoS for Exascale HPC Systems"* at [Middleware 2026](https://middleware-conf.github.io/2026/) and *"Phoning Home: Repatriating output from cloud jobs with a user-level, provider-agnostic data transfer tool"* at [SBAC-PAD 2026](https://coco-arcos.github.io/sbac-pad2026/). Big congratulations to [Mariana Miranda](), [Fabio Souza](), and the rest of the team!
+* **May 2026** Our poster (related to the paper) *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* won one of the best poster awards! Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!
 * **Jan 2026** Our paper *"Holpaca: Holistic and Adaptable Cache Management for Shared Environments"* was accepted at [ICPE 2026](https://icpe2026.spec.org/). Big congratulations to José Pedro Peixoto and the rest of the team!
 
 ***
