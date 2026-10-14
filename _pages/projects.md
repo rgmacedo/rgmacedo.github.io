@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-## GenSEMICON: GENerative AI Chips and Software Engineering Stack: Integrating EU_Sovereign SEMICONductors and Edge Intelligence Systems    
+## GenSEMICON: GENerative AI Chips and Software Engineering Stack: Integrating EU-Sovereign SEMICONductors and Edge Intelligence Systems    
 **Researcher**    
-Accepted    
+Starting in December 2026       
 Research on designing power-aware techniques for improving AI training energy efficiency.    
 **Partners:** INESC TEC, MAG, DNV, ICCS, ETS, TUC, NTNU, UPB, and others.    
 
@@ -32,13 +32,6 @@ Research in new storage and operating system building blocks for improving the p
 **Project reference:** COMPETE2030-FEDER-01193000/17409
 
 
-## DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
-**Co-coordinator**    
-2025 -- 2026    
-Research on designing a software-managed resource disaggregation framework for large-scale HPC infrastructures.    
-**Partners:** INESC TEC, NIAR.
-
-
 ## PASM-CENTRA: Performance and Sustainability Management in Modern Data Centers
 **Coordinator**    
 2024 -- Present    
@@ -55,9 +48,24 @@ on the performance and efficient usage of compute resources.
 **Project reference:** NORTE2030-FEDER-00584600/14436
 
 
+## CENTRA: Efficient and Secure Data Management for HPC and Cloud Computing
+**Researcher**    
+2018 -- Present    
+Research and development of Software-Defined Storage systems to improve the programmability and configurability of HPC and Cloud Computing infrastructures.    
+**Project reference:** [http://www.globalcentra.org/projects/#prv](http://www.globalcentra.org/projects/#prv)
+
+***
+
+## DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures
+**Co-coordinator**    
+2025 -- 2026    
+Research on designing a software-managed resource disaggregation framework for large-scale HPC infrastructures.    
+**Partners:** INESC TEC, NIAR.
+
+
 ## SustainableHPC: Computação de elevado desempenho sustentável
 **Researcher**    
-2021 -- Present    
+2021 -- 2026    
 Research in new energy management systems for improving the energy efficiency of large
 scale HPC infrastructures.    
 **Partners:** INESC TEC, INEGI.
@@ -75,13 +83,6 @@ Research and development of Software-Defined Storage systems to improve performa
 2020 -- 2021   
 Research and development of a Software-Defined Storage data plane for improving I/O performance of AI-powered applications in HPC infrastructures.    
 **Project reference:** [UTA-EXPL/CA/0075/2019](https://pastor-project.github.io/)
-
-
-## CENTRA: Efficient and Secure Data Management for HPC and Cloud Computing
-**Researcher**    
-2018 -- Present    
-Research and development of Software-Defined Storage systems to improve the programmability and configurability of HPC and Cloud Computing infrastructures.    
-**Project reference:** [http://www.globalcentra.org/projects/#prv](http://www.globalcentra.org/projects/#prv)
 
 
 ## IBM Research Haifa --- Joint Study Agreement

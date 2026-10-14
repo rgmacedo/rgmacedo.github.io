@@ -11,6 +11,12 @@ author_profile: true
 ***
 
 ## Program Committee Member
+### 2027
+* 41st IEEE International Parallel and Distributed Processing Symposium ([IEEE IPDPS 2027](https://www.ipdps.org/))
+* 41st ACM International Conference on Supercomputing ([ACM ICS 2027](https://klab-ai3.github.io/ics2027/))
+* 18th ACM/SPEC International Conference on Performance Engineering ([ACM/SPEC ICPE 2027](https://icpe2027.spec.org/))
+* Supercomputing Asia ([SCA 2027](https://www.sc-asia.org/))
+
 ### 2026
 * 55th ACM International Conference on Parallel Processing ([ACM ICPP 2026](https://icpp2026.github.io/))
 * 40th ACM International Conference on Supercomputing ([ACM ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/))

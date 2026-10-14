@@ -20,12 +20,11 @@ The main publications are indexed as *Ricardo Macedo* in [Google Scholar](https:
 
 Recent news
 ===
+**Sep 2026** Our paper *"Watts Behind the Weights: Characterizing Energy Consumption of the AI Training Lifecycle in HPC"* was accepted at the [AI on HPC](https://ai-on-hpc.github.io/sc26/) workshop, co-located with [Supercomputing 2026](https://sc26.supercomputing.org/)! Big congratulations to the students (Alexandre Fernandes, Alícia Oliveira, Beatriz Cepa) who led this work!     
+**Aug 2026** We have two new HPC papers! *"A Tale of Scale: Enabling Scalable and Holistic Storage QoS for Exascale HPC Systems"* at [Middleware 2026](https://middleware-conf.github.io/2026/) and *"Phoning Home: Repatriating output from cloud jobs with a user-level, provider-agnostic data transfer tool"* at [SBAC-PAD 2026](https://coco-arcos.github.io/sbac-pad2026/). Big congratulations to [Mariana Miranda](), [Fabio Souza](), and the rest of the team!     
 **May 2026** Our poster (related to the paper) *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* won one of the best poster awards! Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!     
 **Jan 2026** Our paper *"Holpaca: Holistic and Adaptable Cache Management for Shared Environments"* was accepted at [ICPE 2026](https://icpe2026.spec.org/). Big congratulations to [Pedro Peixoto]() and the rest of the team!     
-**Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!     
-**May 2025** Our paper *"Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy."* was accepted at [VLDB 2025](https://vldb.org/2025/)! Congratulations to the team!     
-**Nov 2024** We have two new projects starting in 2025.     
-**Sep 2024** Our paper *"Can Current SDS Controllers Scale to Modern HPC Infrastructures?"* was accepted at [Supercomputing Workshops 2024](https://sc24.supercomputing.org/)!    
+**Oct 2025** Our paper *"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing"* was accepted at [EuroSys 2026](https://2026.eurosys.org/). Big congratulations to [Rahma Nouaji](https://sites.google.com/view/rahma-nouaji/home) and the rest of the team!         
 Older news can be found [here](https://rgmacedo.github.io/news/).
 
 ***
@@ -70,7 +69,9 @@ Research in secure computation in NoSQL and SQL databases to provide flexible pe
 
 Selected publications
 ===
-**EuroSys'26 | MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing.** Rahma Nouaji, Stella Bitchebe, Ricardo Macedo, Oana Balmau. *21st European Conference on Computer Systems.* 2026.    
+**MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**     
+<u>Rahma Nouaji</u>, Stella Bitchebe, <u>Ricardo Macedo</u>, Oana Balmau     
+EuroSys 2026    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2026/eurosys-minatoloader/eurosys26-minatoloader.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -84,7 +85,9 @@ Selected publications
     <img src="https://img.shields.io/badge/rahmno%2FMinatoLoader-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**ICPE'26 | Holpaca: Holistic and Adaptable Cache Management for Shared Environments.** José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, Ricardo Macedo. *17th ACM/SPEC International Conference on Performance Engineering (just accepted)*. 2026.    
+**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**     
+<u>José Pedro Peixoto</u>, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, <u>Ricardo Macedo</u>     
+ICPE 2026    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -94,7 +97,9 @@ Selected publications
     <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**VLDB'25 | Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy.** Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, Ricardo Macedo. *Proceedings of the VLDB Endowment, Vol. 18 (9).* 2025.    
+**Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**     
+<u>Rúben Adão</u>, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, <u>Ricardo Macedo</u>     
+VLDB 2025        
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -108,7 +113,9 @@ Selected publications
     <img src="https://img.shields.io/badge/dsrhaslab%2Fkeigo-5e5b5c?style=plastic&logo=github&logoColor=white"/>
 </a>
 
-**VLDB'24 | When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection.** Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, Ricardo Macedo, João Paulo. *Proceedings of the VLDB Endowment, Vol. 17 (11).* 2024.    
+**When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**     
+Maria Ramos, João Azevedo, Kyle Kingsburry, José Pereira, Tânia Esteves, <u>Ricardo Macedo</u>, João Paulo    
+VLDB 2024    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -124,14 +131,17 @@ Full list of publications can be found [here](https://rgmacedo.github.io/publica
 
 Ongoing Projects
 ===
-**PATA: Power- and Thermal-aware Management for Energy-Efficient AI Training in HPC Infrastructures.**    
-Co-principal investigator. *INESC TEC, TACC/UT Austin.* 
+**PATA: Power- and Thermal-aware Management for Energy-Efficient AI Training in HPC Infrastructures**    
+*INESC TEC, TACC/UT Austin*      
+Co-principal investigator
 
-**DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures.**    
-Co-principal investigator. *INESC TEC, NIAR.* 
+**DisaggregatedHPC: Towards energy-efficient, software-managed resource disaggregation in HPC infrastructures**    
+*INESC TEC, NIAR*     
+Co-principal investigator 
 
-**CDMS: Claim Denial Management Solution.**    
-Local coordinator. *GetEffy, RandyLabs, INESC TEC, CUF.*    
-COMPETE2030-FEDER-01193000/17409.
+**CDMS: Claim Denial Management Solution**    
+*GetEffy, RandyLabs, INESC TEC, CUF*        
+COMPETE2030-FEDER-01193000/17409    
+Local coordinator
 
 More information about projects [here](https://rgmacedo.github.io/projects/).

@@ -13,6 +13,8 @@ author_profile: true
 **Rúben Adão.** *"Heterogeneous Storage Management in Modern I/O Infrastructures"*. Co-advised with Oana Balmau and João Paulo. Doctoral Programme in Informatics, U. Minho. 2024. *(Ongoing)*    
 
 ## MSc theses
+**André Miranda.** *Distributed energy monitoring for large-scale environments"*. Co-advised with Cláudia Brito and Alexandre Fernandes. U. Minho, 2026. *(Ongoing)*    
+**José Soares.** *"Storage optimizations for vector databases"* U. Minho, 2026. *(Ongoing)*    
 **Daniel Pereira.** *"LegoKV: A key-value store for disaggregated environments"*. Co-advised with Rúben Adão. U. Minho, 2025. *(Ongoing)*    
 **Duarte Ribeiro.** *"Strict durability in LSM-based key-value stores"*. U. Minho, 2025. *(Ongoing)*    
 **Júlio Pinto.** *"Energy control system for large-scale AI training"*. U. Minho, 2025. *(Ongoing)*    

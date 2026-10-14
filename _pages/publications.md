@@ -4,17 +4,51 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!-- ## 2027
+**Query-aware DVFS for GPU-Accelerated Relational Databases**    
+Olivier Michaud, **Ricardo Macedo**, Oana Balmay, Bettina Kemme    
+*30th International Conference on Extending Database Technology (just accepted), 2026*    
+ -->
+
 ## 2026
+**A Tale of Scale: Enabling Scalable and Holistic Storage QoS for Exascale HPC Systems**    
+Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, José Pereira, **Ricardo Macedo**,  João Paulo    
+*27th ACM International Middleware Conference (Middleware) (just accepted), 2026*    
+
+**Watts Behind the Weights: Characterizing Energy Consumption of the AI Training Lifecycle in HPC**    
+Alexandre Fernandes, Alícia Oliveira, Beatriz Cepa, Cláudia Brito, **Ricardo Macedo**    
+*International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops (SC-W) (just accepted), 2026*    
+
+**Phoning Home: Repatriating output from cloud jobs with a user-level, provider-agnostic data transfer tool**    
+Fabio Souza, Daniel M. B. Sodré, João Paulo, **Ricardo Macedo**, Cristina Boeres, Vinod E. F. Rebello, Felipe A. Portella, Paulo J. B. Estrela, Renzo Q. Malini    
+*38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) (just accepted), 2026*    
+
 **Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**    
-Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, **Ricardo Macedo**, Janki Bhimani.    
-*ACM Transactions on Architecture and Code Optimization (ACM TACO), 2026 (just accepted)*    
+Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, **Ricardo Macedo**, Janki Bhimani    
+*ACM Transactions on Architecture and Code Optimization (ACM TACO), 23 (3), 2026*    
 <!-- Doi -->
 <a href="https://dl.acm.org/doi/10.1145/3830082">
   <img src="https://img.shields.io/badge/doi-10.1145/3830082-lightgrey?style=plastic" />
 </a>
 
+**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**    
+José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**    
+*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://dl.acm.org/doi/10.1145/3777884.3797013">
+  <img src="https://img.shields.io/badge/doi-10.1145/3777884.3797013-lightgrey?style=plastic" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/Holpaca">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
 **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
-Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.    
+Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau    
 *21st European Conference on Computer Systems (EuroSys), 2026*    
 <span style="color:#586ba4">**Best poster award.**</span>    
 <!-- PDF -->
@@ -34,25 +68,9 @@ Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau.
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
 
-**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**    
-José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**.    
-*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*    
-<!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
-    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a>
-<!-- Doi -->
-<a href="https://dl.acm.org/doi/10.1145/3777884.3797013">
-  <img src="https://img.shields.io/badge/doi-10.1145/3777884.3797013-lightgrey?style=plastic" />
-</a>
-<!-- Github -->
-<a href="https://github.com/dsrhaslab/Holpaca">
-    <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
-</a>
-
 ## 2025
 **Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**    
-Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Macedo**.    
+Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Macedo**    
 *Proceedings of the VLDB Endowment (VLDB), 18 (9), 2025*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/vldb25-keigo/vldb25-keigo-adao.pdf">
@@ -72,7 +90,7 @@ Rúben Adão, Zhongjie Wu, Changjun Zhou, Oana Balmau, João Paulo, **Ricardo Ma
 </a>
 
 **Idiosyncrasies of Programmable Caching Engines**    
-José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**.    
+José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**    
 *IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/wrldm-cachelib/wrldm-cachelib-peixoto.pdf">
@@ -85,7 +103,7 @@ José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, 
 
 
 **One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC**    
-André Ferreira, Gonçalo Sousa, Amit Ruhela, John Cazes, Janki Bhimani, Raju Rangaswami, **Ricardo Macedo**, Cláudia Brito, João Paulo.    
+André Ferreira, Gonçalo Sousa, Amit Ruhela, John Cazes, Janki Bhimani, Raju Rangaswami, **Ricardo Macedo**, Cláudia Brito, João Paulo    
 *IEEE International Symposium on Reliable Distributed Systems @ Workshop on Reliable Large-scale Data Management, 2025*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2025/wrldm-ddl-caching/wrldm-ddl-caching-ferreira.pdf">
@@ -95,7 +113,7 @@ André Ferreira, Gonçalo Sousa, Amit Ruhela, John Cazes, Janki Bhimani, Raju Ra
 
 ## 2024 
 **Can Current SDS Controllers Scale to Modern HPC Infrastructures?**     
-Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, **Ricardo Macedo**, José Pereira, João Paulo.    
+Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, **Ricardo Macedo**, José Pereira, João Paulo    
 *International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops (SC-W), 2024*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/sc24w-cheferd/sc24w-cheferd-miranda.pdf">
@@ -112,7 +130,7 @@ Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell,
 
 
 **When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection**    
-Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ricardo Macedo**, João Paulo.    
+Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ricardo Macedo**, João Paulo    
 *Proceedings of the VLDB Endowment (VLDB), 17 (11), 2024*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2024/vldb24-lazyfs/vldb24-lazyfs-ramos.pdf">
@@ -130,7 +148,7 @@ Maria Ramos, João Azevedo, Kyle Kingsbury, José Pereira, Tânia Esteves, **Ric
 
 ## 2023 
 **Toward a practical and timely diagnosis of applications' I/O behavior**    
-Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
+Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo    
 *IEEE Access (11), 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/access23-dio/dio-access-esteves.pdf">
@@ -147,7 +165,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 
 **Diagnosing applications' I/O behavior through system call observability**    
-Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.    
+Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo    
 *IEEE/IFIP International Conference on Dependable Systems and Networks @ 5th Workshop on Data-Centric Dependability and Security, 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/dsnw23-dio/dio-dsnw-esteves.pdf">
@@ -169,7 +187,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 
 **Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control**    
-**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo.    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, José Pereira, João Paulo    
 *23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2023/ccgrid23-padll/padll-ccgrid23-rgmacedo.pdf">
@@ -198,7 +216,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 
 **User-level Software-Defined Storage Data Planes**    
-**Ricardo Macedo**.    
+**Ricardo Macedo**    
 *PhD thesis, Universities of Minho, Aveiro, and Porto, 2023*    
  Supervised by [João Paulo](https://jtpaulo.github.io/) and [José Pereira](https://haslab.uminho.pt/jop).    
 <!-- PDF -->
@@ -218,7 +236,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 ## 2022 
 
 **Protecting Metadata Servers From Harm Through Application-level I/O Control**    
-**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, João Paulo.    
+**Ricardo Macedo**, Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, Richard Todd Evans, João Paulo    
 *IEEE International Conference in Cluster Computing @ 2nd Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2022*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/rexio22-padll/padll-rexio22-paper.pdf">
@@ -243,7 +261,7 @@ Tânia Esteves, **Ricardo Macedo**, Rui Oliveira, João Paulo.
 
 
 **Accelerating Deep Learning Training Through Transparent Storage Tiering**    
-Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo.    
+Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia Xu, João Paulo    
 *22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2022*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2022/ccgrid2022-monarch/dantas-ccgrid22-paper.pdf">
@@ -268,7 +286,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 
 
 **PAIO: General, Portable I/O Optimizations With Minor Application Modifications**    
-**Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo.    
+**Ricardo Macedo**, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo    
 *20th USENIX Conference on File and Storage Technologies (FAST), 2022*        
 <!-- PDF -->
 <a href="https://www.usenix.org/conference/fast22/presentation/macedo">
@@ -304,7 +322,7 @@ Marco Dantas, Diogo Leitão, Peter Cui, **Ricardo Macedo**, Xinlian Liu, Weijia 
 ## 2021
 
 **Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes**    
-Alberto Faria, **Ricardo Macedo**, João Paulo.    
+Alberto Faria, **Ricardo Macedo**, João Paulo    
 *22nd ACM/IFIP International Middleware Conference @ 7th International Workshop on Container Technologies and Container Clouds, 2021*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/woc21-pav/faria-woc21-paper.pdf">
@@ -320,7 +338,7 @@ Alberto Faria, **Ricardo Macedo**, João Paulo.
 </a>
 
 **The Case for Storage Optimization Decoupling in Deep Learning Frameworks**    
-**Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo.    
+**Ricardo Macedo**, Cláudia Correia, Marco Dantas, Cláudia Brito, Weijia Xu, Yusuke Tanimura, Jason Haga, João Paulo    
 *IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2021*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-sds-prisma/rgmacedo-rexio21.pdf">
@@ -345,7 +363,7 @@ Alberto Faria, **Ricardo Macedo**, João Paulo.
 
 
 **Monarch: Hierarchical Storage Management for Deep Learning Frameworks**    
-Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, João Paulo.    
+Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, João Paulo    
 *IEEE International Conference in Cluster Computing @ 1st Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), 2021*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/rexio21-monarch/dantas-rexio21.pdf">
@@ -378,9 +396,9 @@ Marco Dantas, Diogo Leitão, Cláudia Correia, **Ricardo Macedo**, Weijia Xu, Jo
 
 
 **BDUS: Implementing Block Devices in User Space**    
-Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.    
+Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo    
 *14th ACM International System and Storage Conference (SYSTOR), 2021*    
-<span style="color:#586ba4">**Best paper runner-up.**</span>    
+<span style="color:#586ba4">**Best paper runner-up**</span>    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2021/systor21-bdus/bdus-paper.pdf">
     <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
@@ -407,7 +425,7 @@ Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.
 ## 2020
 
 **A Survey and Classification of Software-Defined Storage Systems**   
-**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani.   
+**Ricardo Macedo**, João Paulo, José Pereira, Alysson Bessani   
 *ACM Computing Surveys 53, 3 (48), 2020*   
 <!-- PDF -->
 <a href="https://dl.acm.org/doi/10.1145/3385896?cid=99659535288">
@@ -427,7 +445,7 @@ Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.
 ## 2019
 
 **A Case for Dynamically Programmable Storage Background Tasks**   
-**Ricardo Macedo**, Alberto Faria, João Paulo, José Pereira.   
+**Ricardo Macedo**, Alberto Faria, João Paulo, José Pereira   
 *38th International Symposium on Reliable Distributed Systems Workshops @ 1st Workshop on Distributed and Reliable Storage Systems, 2019*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2019/drss19-programmable-background-tasks/rgmacedo-drss19.pdf">
@@ -452,7 +470,7 @@ Alberto Faria, **Ricardo Macedo**, José Pereira, João Paulo.
 
 
 **TrustFS: An SGX-Enabled Stackable File System Framework**    
-Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo, José Pereira, Danny Harnik.    
+Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo, José Pereira, Danny Harnik    
 *38th International Symposium on Reliable Distributed Systems Workshops @ 1st Workshop on Distributed and Reliable Storage Systems, 2019*    
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2019/drss19-trustfs/trustfs-rgmacedo-2019.pdf">
@@ -473,7 +491,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 ## 2017
 
 **A Practical Framework for Privacy-Preserving NoSQL Databases**   
-**Ricardo Macedo**, João Paulo, Rogério Pontes, Bernardo Portela, Tiago Oliveira, Miguel Matos, Rui Oliveira.   
+**Ricardo Macedo**, João Paulo, Rogério Pontes, Bernardo Portela, Tiago Oliveira, Miguel Matos, Rui Oliveira   
 *36th International Symposium on Reliable Distributed Systems (SRDS), 2017*   
 <!-- PDF -->
 <a href="https://rgmacedo.github.io/files/2017/srds17-safenosql/rgmacedo-srds17-safenosql.pdf">
@@ -494,7 +512,7 @@ Tânia Esteves, **Ricardo Macedo**, Alberto Faria, Bernardo Portela, João Paulo
 
 
 **Computação Segura em Bases de Dados NoSQL**    
-**Ricardo Macedo**. Supervised by [João Paulo](https://jtpaulo.github.io/) and [Rui Oliveira](https://haslab.uminho.pt/rco/).    
+**Ricardo Macedo**. Supervised by [João Paulo](https://jtpaulo.github.io/) and [Rui Oliveira](https://haslab.uminho.pt/rco/)    
 *Master Thesis, University of Minho, 2017 (Portuguese)*    
 <!-- PDF -->
 <a href="https://repositorium.sdum.uminho.pt/handle/1822/62116">
