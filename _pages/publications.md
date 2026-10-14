@@ -11,42 +11,6 @@ Olivier Michaud, **Ricardo Macedo**, Oana Balmay, Bettina Kemme
  -->
 
 ## 2026
-**A Tale of Scale: Enabling Scalable and Holistic Storage QoS for Exascale HPC Systems**    
-Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, José Pereira, **Ricardo Macedo**,  João Paulo    
-*27th ACM International Middleware Conference (Middleware) (just accepted), 2026*    
-
-**Watts Behind the Weights: Characterizing Energy Consumption of the AI Training Lifecycle in HPC**    
-Alexandre Fernandes, Alícia Oliveira, Beatriz Cepa, Cláudia Brito, **Ricardo Macedo**    
-*International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops (SC-W) (just accepted), 2026*    
-
-**Phoning Home: Repatriating output from cloud jobs with a user-level, provider-agnostic data transfer tool**    
-Fabio Souza, Daniel M. B. Sodré, João Paulo, **Ricardo Macedo**, Cristina Boeres, Vinod E. F. Rebello, Felipe A. Portella, Paulo J. B. Estrela, Renzo Q. Malini    
-*38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) (just accepted), 2026*    
-
-**Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**    
-Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, **Ricardo Macedo**, Janki Bhimani    
-*ACM Transactions on Architecture and Code Optimization (ACM TACO), 23 (3), 2026*    
-<!-- Doi -->
-<a href="https://dl.acm.org/doi/10.1145/3830082">
-  <img src="https://img.shields.io/badge/doi-10.1145/3830082-lightgrey?style=plastic" />
-</a>
-
-**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**    
-José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**    
-*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*    
-<!-- PDF -->
-<a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
-    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-</a>
-<!-- Doi -->
-<a href="https://dl.acm.org/doi/10.1145/3777884.3797013">
-  <img src="https://img.shields.io/badge/doi-10.1145/3777884.3797013-lightgrey?style=plastic" />
-</a>
-<!-- Github -->
-<a href="https://github.com/dsrhaslab/Holpaca">
-    <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
-</a>
-
 **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**    
 Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau    
 *21st European Conference on Computer Systems (EuroSys), 2026*    
@@ -67,6 +31,44 @@ Rahma Nouaji, Stella Bitchebe, **Ricardo Macedo**, Oana Balmau
 <a href="https://arxiv.org/abs/2509.10712">
     <img src="https://img.shields.io/static/v1?style=plastic&message=arXiv&color=5e5b5c&logo=arXiv&logoColor=FFFFFF&label=" />
 </a>
+
+**Holpaca: Holistic and Adaptable Cache Management for Shared Environments**    
+José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, **Ricardo Macedo**    
+*17th ACM/SPEC International Conference on Performance Engineering (ICPE), 2026*    
+<!-- PDF -->
+<a href="https://rgmacedo.github.io/files/2026/icpe-holpaca/icpe26-holpaca.pdf">
+    <img src="https://img.shields.io/badge/-pdf-5e5b5c?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+</a>
+<!-- Doi -->
+<a href="https://dl.acm.org/doi/10.1145/3777884.3797013">
+  <img src="https://img.shields.io/badge/doi-10.1145/3777884.3797013-lightgrey?style=plastic" />
+</a>
+<!-- Github -->
+<a href="https://github.com/dsrhaslab/Holpaca">
+    <img src="https://img.shields.io/badge/dsrhaslab%2Fholpaca-5e5b5c?style=plastic&logo=github&logoColor=white"/>
+</a>
+
+**A Tale of Scale: Enabling Scalable and Holistic Storage QoS for Exascale HPC Systems**    
+Mariana Miranda, Yusuke Tanimura, Jason Haga, Amit Ruhela, Stephen Lien Harrell, John Cazes, José Pereira, **Ricardo Macedo**,  João Paulo    
+*27th ACM International Middleware Conference (Middleware) (just accepted), 2026*    
+
+**Watts Behind the Weights: Characterizing Energy Consumption of the AI Training Lifecycle in HPC**    
+Alexandre Fernandes, Alícia Oliveira, Beatriz Cepa, Cláudia Brito, **Ricardo Macedo**    
+*International Conference for High Performance Computing, Networking, Storage, and Analysis Workshops (SC-W) (just accepted), 2026*    
+
+**Phoning Home: Repatriating output from cloud jobs with a user-level, provider-agnostic data transfer tool**    
+Fabio Souza, Daniel M. B. Sodré, João Paulo, **Ricardo Macedo**, Cristina Boeres, Vinod E. F. Rebello, Felipe A. Portella, Paulo J. B. Estrela, Renzo Q. Malini    
+*38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) (just accepted), 2026*    
+
+**Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**    
+Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, **Ricardo Macedo**, Janki Bhimani    
+*ACM Transactions on Architecture and Code Optimization (ACM TACO), 23 (3), 2026*    
+<!-- Doi -->
+<a href="https://dl.acm.org/doi/10.1145/3830082">
+  <img src="https://img.shields.io/badge/doi-10.1145/3830082-lightgrey?style=plastic" />
+</a>
+
+
 
 ## 2025
 **Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy**    
